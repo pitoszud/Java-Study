@@ -5,6 +5,8 @@
  */
 package LambdaA;
 
+import java.util.function.Predicate;
+
 /**
  *
  * @author upatryk
@@ -12,6 +14,12 @@ package LambdaA;
 public class FindMatchingAnimals {
     private static void print(Animal animal, CheckTrait trait) {
         if(trait.test(animal)) {
+            System.out.println(animal);
+        }
+    }
+
+    private static void printPred(Animal animal, Predicate<Animal> trait){
+        if (trait.test(animal)){
             System.out.println(animal);
         }
     }
@@ -56,6 +64,26 @@ public class FindMatchingAnimals {
             boolean chk = new Animal("bear", true, false).canHop();
             System.out.println(chk);
             return chk; // true
+        });
+    }
+
+
+    public static void mainIC(String[] args) {
+        printPred(new Animal("tur", true, false), new Predicate<Animal>() {
+            @Override
+            public boolean test(Animal animal) {
+                boolean chk = animal.canHop();
+                System.out.println(chk);
+                return chk;
+            }
+        });
+    }
+
+    public static void mainFC(String[] args) {
+        printPred(new Animal("tur", true, false), a -> {
+            boolean chk = a.canHop();
+            System.out.println(chk);
+            return chk;
         });
     }
     

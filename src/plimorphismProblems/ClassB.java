@@ -9,8 +9,8 @@ package plimorphismProblems;
  *
  * @author UPatryk
  */
-public class ClassB extends ClassA {
-    protected void fly(){
-        System.out.println("ClassB");
+public class ClassB extends ClassA implements Cl {
+    public void fly(){
+        System.out.println("ClassB is flying");
     }
 }

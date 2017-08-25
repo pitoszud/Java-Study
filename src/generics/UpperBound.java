@@ -9,7 +9,7 @@ public class UpperBound {
         List<Long> l = new ArrayList<>();
         l.add(12489843L);
 
-        //long lNum1 = firstProblem(l); // DOES NOT COMPILE
+        //long lNum1 = firstProblem(l); // DOES NOT COMPILE: Number cannot be applied to Long
         long lNum2 = firstProblemFixed(l);
 
        //List<Number> lex = new ArrayList<Long>(); // DOES NOT COMPILE

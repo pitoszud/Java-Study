@@ -6,6 +6,7 @@ package tests;
  */
 public class Tescior {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        ClassA ca = new ClassB();
+        ca.runThis();
     }
 }

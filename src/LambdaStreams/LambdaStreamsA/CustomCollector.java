@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LambdaStreamsA;
+package LambdaStreams.LambdaStreamsA;
 
 import java.util.*;
 import java.util.List;
@@ -15,8 +15,6 @@ import java.util.function.Supplier;
 import java.util.stream.Collector;
 import static java.util.stream.Collector.Characteristics.CONCURRENT;
 import static java.util.stream.Collector.Characteristics.IDENTITY_FINISH;
-import java.util.stream.Collectors.*;
-import static javafx.scene.input.KeyCode.*;
 
 /**
  *

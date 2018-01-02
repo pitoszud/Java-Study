@@ -7,6 +7,7 @@ package LambdaStreams.Streams;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Predicate;
 
 /**
  *
@@ -35,6 +36,16 @@ public class OrderFilter {
     }
     
     public List<Order> filter(List<Order> ol, OrderPredicate op){
+        List<Order> orderedList = new ArrayList<>();
+        for (Order order : orderedList) {
+            if(op.test(order)){
+                orderedList.add(order);
+            }
+        }
+        return orderedList;
+    }
+
+    public List<Order> filter2(List<Order> ol, Predicate<Order> op){
         List<Order> orderedList = new ArrayList<>();
         for (Order order : orderedList) {
             if(op.test(order)){

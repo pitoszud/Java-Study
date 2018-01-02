@@ -6,6 +6,7 @@
 package LambdaStreams.Streams;
 
 import java.util.List;
+import java.util.function.Predicate;
 
 /**
  *
@@ -18,8 +19,17 @@ public class OrderClient {
         of.createOrders();
         List<Order> orders = of.getOrderList();
         
-        List<Order> filteredList = of.filter(orders, ord -> ord.getAcc().equals("Pitos"));
-        
+        List<Order> filteredList1 = of.filter(orders, ord -> ord.getAcc().equals("Pitos"));
+
+
+        OrderPredicate pitosAccount2 = ord -> ord.getAcc().equals("Pitos");
+        List<Order> filteredList2 = of.filter(orders, pitosAccount2);
+
+
+        Predicate<Order> predicate = ord -> ord.getAcc().equals("Pitos");
+        OrderPredicate pitosAccount3 = (OrderPredicate) predicate;
+        List<Order> filteredList3 = of.filter(orders, pitosAccount3);
+
         
     }
 }

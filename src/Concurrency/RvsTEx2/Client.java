@@ -1,31 +1,20 @@
-package Concurrency.RvsTEx1;
+package Concurrency.RvsTEx2;
 
-public class ClientR {
+public class Client {
     public static void main(String[] args) {
-        RandomGenerator tgen = new RandomGenerator();
+        boolean isDeamon = args.length !=0;
 
-        R1 r1 = new R1(tgen);
-        Thread t1 = new Thread(r1);
+        Runnable r = () -> {
+            Thread t0 = Thread.currentThread();
+            while (true){
+                System.out.println(t0.getName());
+                System.out.println(t0.isAlive());
+                System.out.println(t0.getState());
+            }
+        };
 
-        R1 r2 = new R1(tgen);
-        Thread t2 = new Thread(r2);
-
-        R1 r3 = new R1(tgen);
-        Thread t3 = new Thread(r3);
+        Thread t1 = new Thread(r, "t1");
 
 
-        R1 r4 = new R1(tgen);
-        Thread t4 = new Thread(r4);
-
-        R1 r5 = new R1(tgen);
-        new Thread(r5).start();  // anonymous thread
-
-        R1 r6 = new R1(tgen);
-        new Thread(r6).start();  // anonymous thread
-
-        t1.start();
-        t2.start();
-        t3.start();
-        t4.start();
     }
 }

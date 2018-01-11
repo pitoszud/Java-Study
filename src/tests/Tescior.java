@@ -1,12 +1,24 @@
 
 package tests;
 
-/**
- * Created by upatryk on 02/08/2017.
- */
+
+
+
 public class Tescior {
+    private static final Object lock = new Object();
+
     public static void main(String[] args) {
-        ClassA ca = new ClassB();
-        ca.runThis();
+        System.out.println("starting: " + Thread.currentThread());
+
+        new Thread(() -> {
+            synchronized (lock){
+                System.out.println("running: " + Thread.currentThread());
+            }
+        }).start();
+
+
+        synchronized (lock){
+            System.out.println("finishing: " + Thread.currentThread());
+        }
     }
 }

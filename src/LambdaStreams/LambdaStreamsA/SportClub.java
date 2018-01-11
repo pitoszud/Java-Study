@@ -7,6 +7,8 @@ package LambdaStreams.LambdaStreamsA;
 
 import java.util.*;
 import static java.util.Arrays.asList;
+
+import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import static java.util.stream.Collectors.*;
 import java.util.stream.IntStream;
@@ -659,7 +661,23 @@ public class SportClub {
                 .peek(d -> System.out.println("uplift: " + d)).filter(d -> d >= 26.00)
                 .peek(d -> System.out.println("higher than 26: " + d)).collect(toList());
         // filter so it shows the highest three values
-        
+
+
+       System.out.println("------------------------------------");
+       System.out.println("\n collecting to maps");
+       Map<String, Integer> strIntMap = personList.stream()
+               .collect(Collectors.toMap(
+                       Person::getName, p -> p.getName().length()));
+       System.out.println(strIntMap); // {Patryk=6, Oliwia=6, Gawel=5, Bolek=5 ...
+
+
+       Stream<String> ohMy = Stream.of("lions", "tigers", "bears");
+       TreeMap<Integer, String> map = ohMy
+               .collect(Collectors.toMap(
+                       String::length, k -> k, (s1, s2) -> s1 + "," + s2, TreeMap::new));
+       System.out.println(map); // {5=lions,bears, 6=tigers}
+       System.out.println(map.getClass()); // class. java.util.TreeMap
+
         
         
    }

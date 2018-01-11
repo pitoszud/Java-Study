@@ -24,7 +24,7 @@ public class Supplier_Consumer {
 
     public static void main(String[] args) {
 
-        // Supplier can be used in all contexts where there is no input but an output is expected.
+        // no input/parameters but an output is returned.
         Supplier<LocalDate> supplier1 = LocalDate::now;
         Supplier<LocalDate> supplier2 = () -> LocalDate.now();
 
@@ -35,7 +35,7 @@ public class Supplier_Consumer {
         System.out.println(supplier3.get().append("String"));
 
 
-        // used in all contexts where there is an input, and
+        // there is an input, and
         // some operation is to be performed on the object without returning any result.
         Consumer<Integer> consumer1 = it -> System.out.println(it * 2);
         consumer1.accept(5);

@@ -1,32 +1,883 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="737b5968-4dcc-450a-a9c6-59118788160b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Concurrency/RvsTEx2/Join.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/rxjavaS/impl/Observer.java" />
+    <list default="true" id="6708cb48-2ab5-478f-a06b-f256dda08c58" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19/_metadata_/metadata" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19/_metadata_/metadata.keystream" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19/_metadata_/metadata.keystream.len" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19/_metadata_/metadata.len" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19/_metadata_/metadata.values.at" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19/_metadata_/metadata_i" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b3d8481b-3a5a-464a-9bbf-9d9875bb9f19/_metadata_/metadata_i.len" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/rxjava_2_1_9.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy.iml" afterPath="$PROJECT_DIR$/JavaStudy.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CSDemo.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/CSDemo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CalculateE.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/CalculateE.class" />
+      <change beforePath="$PROJECT_DIR$/JavaStudy.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libsrc/rxjava-2.1.9-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libsrc/rxjava-2.1.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Await$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Await.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/BFS/InnerVertex.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/BackAndForth$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/BackAndForth$Direction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/BackAndForth.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CSDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CalculateE$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CalculateE.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CheckingAccount$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CheckingAccount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/RvsTEx1/ClientR.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/RvsTEx1/ClientT.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/RvsTEx1/R1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/RvsTEx1/RandomGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/RvsTEx1/T1.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/RvsTEx2/Client.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExceptionThread.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/ExceptionThread.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ID.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/ID.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Club$Type.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Club$Type.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Club.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Club.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Person$Sex.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Person$Sex.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Person.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Person.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Race.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Race.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/MatMult.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/MatMult.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/TestID.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/TestID.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadStopping$1StoppableThread.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/ThreadStopping$1StoppableThread.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadStopping.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/ThreadStopping.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/TimerDemo$1.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/TimerDemo$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/TimerDemo.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/TimerDemo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ViewPage.class" afterPath="$PROJECT_DIR$/out/production/JavaStudy/ViewPage.class" />
-      <change beforePath="$PROJECT_DIR$/src/Concurrency/RvsTEx2/Client.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/RvsTEx2/Join.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/67p.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/adrastea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/amalthea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ariel.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/atlas.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/buzzaldrin.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/callisto.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/calypso.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/charon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/charsurf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/cv.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/deimos.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/despina.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/dione.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/dione2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/dione3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/dione4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/earth.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/earth2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/earth3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/earthrise.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/earthsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/edge.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/em.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/emmars.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/epimetheus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/eris.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/europa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/galatea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ganymede.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/gaspra.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/halley.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/halnuc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/helene.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/hydra.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/hyperion.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/hyperion2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/iapetus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ida.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/io.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ioeuropa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/iss.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/janus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/jupclose.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/jupiter.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/jupsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/kb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/larissa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/makemake.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mars.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsgold.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marspole.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marssys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mercury.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mercury2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/metis.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/mimas.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/miranda.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/moon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/moonsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/moonsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/naiad.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/ncc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/nepsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/neptune.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/nereid.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/nix.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/oberon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/oort.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/pan.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/pandora.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/phobos.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/phoebe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutchar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/pluto.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/pluto2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutosys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsil.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/prometheus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/proteus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/puck.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/quaoar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/rhea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/satsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/saturn.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/saturndm.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/saturnnp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/sedna.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/sol.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/sol2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/sol3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/telesto.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/tethys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/thalassa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/thebe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/titan.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/titania.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/titsurf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/triton.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/umbriel.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/uranus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/uranus2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/urasys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/venus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta-snowman.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta-southpole.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Concurrency/threads_concurrency/ch01/ThreadDemo/v1/ThreadDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ConstructorBuilder/Computer$CompBuilder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ConstructorBuilder/Computer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ConstructorBuilder/ComputerClient.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ConstructorBuilder/UserConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ConstructorBuilder/UserConfig_Cfg.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ConstructorBuilder/UserConfig_Fieldable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CountDownLatchDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CountDownLatchDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Counter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CountingThreads$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CountingThreads.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/CyclicBarrierDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DataBuffer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DeadlockDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DeadlockDemo$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DeadlockDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DesignPatterns/ObserverA/Client.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DesignPatterns/ObserverA/Observer$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DesignPatterns/ObserverA/Observer$Subject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DesignPatterns/ObserverA/Observer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DesignPatterns/ObserverA/Subscriber$Listener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/DesignPatterns/ObserverA/Subscriber.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Dictionary.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/MethodsEnum$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/MethodsEnum$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/MethodsEnum$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/MethodsEnum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/ObjectEnum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/PrimitiveEnum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/Qualification.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Enums/Student.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExceptionThread$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExceptionThread$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExceptionThread$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExceptionThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/CustomExc$Calculator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/CustomExc$MissingRoundingException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/CustomExc.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/ExcB.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/ExcD.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/ExcE.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/ExcInh$AnimalsOutForAWalk.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/ExcInh$ExhibitClosed.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/ExcInh$ExhibitClosedForLunch.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/ExcInh.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/Exercise.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/excA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/excC$Bike.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/excC$ChainSnapped.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/excC$Cyclist.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/excC$FlatTyre.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/excC$FlatTyres.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Exceptions/excC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExchangerDemo$1EmptyingLoop.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExchangerDemo$1FillingLoop.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ExchangerDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ID.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ImmutableLists/DeepCopy.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ImmutableLists/ImmutableList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InheritableThreadLocalDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InitOrder/Order.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InitOrder/OrderTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt$Charge.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt$Discount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt$NamedClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt$Quantity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/AnonExt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/InnerVSNested$Inner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/InnerVSNested$Nested.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/InnerVSNested.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/OuterA$1InnerA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/InnerClasses/OuterA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/IntSleep$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/IntSleep.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/AccessInterface.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/InterfaceEx3$Bear.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/InterfaceEx3$Herbivore.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/InterfaceEx3$Omnivore.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/InterfaceEx3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/Library$Book.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/Library$Shelf.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/Library.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/LibraryClient.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/LibraryReader$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/LibraryReader$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/LibraryReader$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/LibraryReader.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Interfaces/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/JoinDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/BiConsumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/FunctionDescriptor$FirstInterface.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/FunctionDescriptor$Function.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/FunctionDescriptor$SecondInterface.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/FunctionDescriptor$Supplier.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/FunctionDescriptor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaA/Animal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaA/CheckTrait.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaA/FindMatchingAnimals$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaA/FindMatchingAnimals$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaA/FindMatchingAnimals$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaA/FindMatchingAnimals.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/ArrayOperations.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/CustomCollector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/DefaultMethod$BiggerBrother.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/DefaultMethod$Dad.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/DefaultMethod$Daughter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/DefaultMethod$LittleBrother.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/DefaultMethod$Mum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/DefaultMethod.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/PracticeTransactions$Trader.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/PracticeTransactions$Transaction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/PracticeTransactions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/RaceLists.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$BudgetType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Club$Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Club.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Person$Sex.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$PersonPredicate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub$Race.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/LambdaStreamsA/SportClub.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/MethodReferences$Employee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/MethodReferences.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Patterns/Points$Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Patterns/Points.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/PredicateEx2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Streams/Account.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Streams/Collector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Streams/Order.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Streams/OrderClient.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Streams/OrderFilter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Streams/OrderPredicate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Supplier.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/Supplier_Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/LambdaStreams/ThreadSupplier.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/MatMult.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Matrix.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/NamedThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/PC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/PhaserDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Planets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Pool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Producer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Projector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/RLDemo$1Worker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/RLDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Screen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/SemaphoreDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/SemaphoreDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Shared.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Singletons/FactoryAndEnum/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Singletons/FactoryAndEnum/ReviewSinglEnum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Singletons/FactoryAndEnum/ReviewSinglFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Singletons/SimpleSingleton/Module.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Singletons/SimpleSingleton/ModuleClient.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Singletons/SimpleSingleton/ModuleLab.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Slide.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/SlideShow$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/SlideShow.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Solver$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Solver$Worker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Solver.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadLocalDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadLocalDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadStopping$1StoppableThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ThreadStopping.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/TimerDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/TimerDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/UsePlanets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/ViewPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/VirtualMethodInvocation/Cloud.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/VirtualMethodInvocation/Hail.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/VirtualMethodInvocation/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/VirtualMethodInvocation/Rain.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/VirtualMethodInvocation/Snow.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/changeMyName/Tescior2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/chk/T1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/chk/Tescior.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/BasicDetection.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/Box.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/Collision.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/CollisionListCollector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/CollisionListFunctionalCollector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/CollisionSetCollector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/CountingTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/ForEachCollisionCollector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/GridCollector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/GridSpec.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/GridTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/collisions/Time.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/Duck.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/DuckSortTestDrive$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/DuckSortTestDrive$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/DuckSortTestDrive.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/Nightingale.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/Pigeon.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/Sparrow.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/compare/Stork.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/constructorA/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/constructorA/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/constructorA/Student.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/constructorA/Teacher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/constructorB/Coordinate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/constructorB/mainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/generics/CrunchifyEnumExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/generics/ExtendsNum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/generics/LowerBound.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/generics/SuperExtends.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/generics/Unbounded.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/generics/UpperBound.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/generics/Vararg.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/hideMethod/Bike.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/hideMethod/EnduranceBike.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/hideMethod/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/hideVariable/EnduranceBike1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/hideVariable/Main1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/hideVariable/RaceBike1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/instance/Bicycle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/instance/Car.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/instance/InstanceChecker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/instance/Vehicle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/instance/Wheel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/math/IntAssigment.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/math/IntPlusPlus.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/Employee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/Interfaces$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/Interfaces.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/Lambda1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/LambdaExtra.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/LambdaImplementation$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/LambdaImplementation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/LambdaInference.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/Manager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/MethodReferences$ThreadSupplier.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/MethodReferences.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/NoLoops.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/Scalable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/mfaella/collisions/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/overRrideLoad/Bird$InsufficientDataException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/overRrideLoad/Bird.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/overRrideLoad/Eagle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/overVShidden/EnduranceBike.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/overVShidden/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/overVShidden/RaceBike.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/plimorphismProblems/ABController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/plimorphismProblems/Cl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/plimorphismProblems/ClassA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/plimorphismProblems/ClassB.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/plimorphismProblems/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/polimorphism/HasTail.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/polimorphism/Lemur.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/polimorphism/Primate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/polimorphismInstanceof/Elephant.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/polimorphismInstanceof/HeavyAnimal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/polimorphismInstanceof/Hippo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/polimorphismInstanceof/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/duck/GooseWatcher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/goose/Bocian.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/goose/Gosling.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/inland/BirdWatcherFromAfar.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/shore/Bird.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/shore/BirdWatcher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/shore/Ptak.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/pond/swan/Swan.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/Apples$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/Apples$Apple.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/Apples$ApplePredicate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/Apples$AppleTester1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/Apples.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/ClimbPredicate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/ClimbPredicate2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/predicatesA/Mountain.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticFactoryMethod1/RandomDoubleGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticFactoryMethod1/RandomGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticFactoryMethod1/RandomGenerators.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticFactoryMethod1/RandomIntGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticFactoryMethod1/RandomIntGeneratorConstructor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticFactoryMethod1/RandomIntGeneratorTester.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticTests/CallInitOrder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticTests/InitOrder1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticTests/InitOrder2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticTests/InitOrder3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticTests/StaticImports.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/staticTests/StaticTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/switchCases/swCsOne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/ClassA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/ClassB.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/ClassCounter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Dates.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Format.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Gorilla.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/HuArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Immutable$ImmutableRunner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Immutable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Mouse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/MultiDim.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/NotImmutable$NotImmutableRunner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/NotImmutable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/SubTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Tescior.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Test2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/tests/Tests.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/web/tester.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/BFS/InnerVertex.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/RvsTEx1/ClientR.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/RvsTEx1/ClientT.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/RvsTEx1/R1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/RvsTEx1/RandomGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/RvsTEx1/T1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/RvsTEx2/Join.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch01/IntSleep/IntSleep.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch02/CheckingAccount/CheckingAccount.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch03/Await/Await.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch04/BackAndForth/BackAndForth.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch05/CountingThreads/v1/CountingThreads.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch05/CountingThreads/v2/CountingThreads.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch06/PC/PC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch07/ID/ID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appa/ch07/ID/TestID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/Counter/Counter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/67p.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/adrastea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/amalthea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ariel.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/atlas.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/buzzaldrin.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/callisto.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/calypso.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/charon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/charsurf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/cv.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/deimos.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/despina.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/dione.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/dione2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/dione3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/dione4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/earth.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/earth2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/earth3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/earthrise.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/earthsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/edge.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/em.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/emmars.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/epimetheus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/eris.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/europa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/galatea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ganymede.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/gaspra.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/halley.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/halnuc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/helene.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/hydra.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/hyperion.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/hyperion2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/iapetus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ida.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/io.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ioeuropa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/iss.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/janus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/jupclose.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/jupiter.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/jupsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/kb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/larissa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/makemake.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mars.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsgold.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marspole.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marssys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mercury.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mercury2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/metis.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/mimas.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/miranda.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/moon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/moonsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/moonsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/naiad.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/ncc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/nepsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/neptune.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/nereid.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/nix.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/oberon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/oort.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/pan.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/pandora.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/phobos.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/phoebe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutchar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/pluto.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/pluto2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutosys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsil.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/prometheus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/proteus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/puck.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/quaoar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/rhea.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/satsys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/saturn.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/saturndm.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/saturnnp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/sedna.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/sol.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/sol2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/sol3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/telesto.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/tethys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/thalassa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/thebe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/titan.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/titania.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/titsurf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/triton.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/umbriel.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/uranus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/uranus2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/urasys.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/venus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta-snowman.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta-southpole.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/SlideShow/v1/SlideShow.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/ViewPage/v1/ViewPage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/ViewPage/v2/ViewPage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/ViewPage/v3/ViewPage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/ViewPage/v4/ViewPage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch01/ThreadDemo/v1/ThreadDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch01/ThreadDemo/v2/ThreadDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch01/ThreadDemo/v3/ThreadDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch01/ThreadDemo/v4/ThreadDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/DeadlockDemo/DeadlockDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ID/v1/ID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ID/v2/ID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ID/v3/ID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ID/v4/ID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/JoinDemo/v1/JoinDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/JoinDemo/v2/JoinDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ThreadStopping/v1/ThreadStopping.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ThreadStopping/v2/ThreadStopping.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ThreadStopping/v3/ThreadStopping.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/ThreadStopping/v4/ThreadStopping.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/UsePlanets/Planets.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch02/UsePlanets/UsePlanets.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch03/PC/v1/PC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch03/PC/v2/PC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch04/ExceptionThread/v1/ExceptionThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch04/ExceptionThread/v2/ExceptionThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch04/InheritableThreadLocalDemo/InheritableThreadLocalDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch04/ThreadLocalDemo/ThreadLocalDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch04/TimerDemo/v1/TimerDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch04/TimerDemo/v2/TimerDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch05/CalculateE/CalculateE.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch06/CountDownLatchDemo/CountDownLatchDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch06/CyclicBarrierDemo/CyclicBarrierDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch06/ExchangerDemo/ExchangerDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch06/PhaserDemo/PhaserDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch06/SemaphoreDemo/SemaphoreDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch07/Dictionary/Dictionary.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch07/PC/PC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch07/RLDemo/RLDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/CSDemo/CSDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/ID/v1/ID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/ID/v2/ID.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/MatMult/v1/MatMult.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/MatMult/v1/Matrix.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/MatMult/v2/MatMult.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/MatMult/v2/Matrix.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/threads_concurrency/ch08/PC/PC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ConstructorBuilder/Computer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ConstructorBuilder/ComputerClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ConstructorBuilder/UserConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ConstructorBuilder/UserConfig_Cfg.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ConstructorBuilder/UserConfig_Fieldable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/ObserverA/Client.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/ObserverA/Observer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/ObserverA/Subscriber.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Enums/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Enums/MethodsEnum.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Enums/ObjectEnum.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Enums/PrimitiveEnum.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Enums/Qualification.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Enums/Student.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/CustomExc.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ExcB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ExcD.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ExcE.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ExcInh.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/Exercise.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/excA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/excC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ImmutableLists/DeepCopy.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ImmutableLists/ImmutableList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/InitOrder/Order.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/InitOrder/OrderTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClasses/AnonExt.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClasses/InnerVSNested.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClasses/OuterA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/AccessInterface.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/InterfaceEx1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/InterfaceEx2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/InterfaceEx3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/InterfaceEx4.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/Library.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/LibraryClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/LibraryReader.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/FunctionDescriptor.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaA/Animal.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaA/FindMatchingAnimals.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaStreamsA/ArrayOperations.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaStreamsA/CustomCollector.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaStreamsA/DefaultMethod.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaStreamsA/PracticeTransactions.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaStreamsA/RaceLists.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/LambdaStreamsA/SportClub.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/MethodReferences.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/ModelClasses/Employee.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Patterns/Points.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/PredicateEx2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Streams/Account.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Streams/Collector.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Streams/Order.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Streams/OrderClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Streams/OrderFilter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Streams/OrderPredicate.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaStreams/Supplier_Consumer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Singletons/FactoryAndEnum/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Singletons/FactoryAndEnum/ReviewSinglEnum.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Singletons/FactoryAndEnum/ReviewSinglFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Singletons/SimpleSingleton/Module.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Singletons/SimpleSingleton/ModuleClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Singletons/SimpleSingleton/ModuleLab.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/VirtualMethodInvocation/Cloud.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/VirtualMethodInvocation/Hail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/VirtualMethodInvocation/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/VirtualMethodInvocation/Rain.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/VirtualMethodInvocation/Snow.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/changeMyName/Tescior2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/chk/T1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/chk/Tescior.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/compare/Duck.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/compare/DuckSortTestDrive.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/compare/Nightingale.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/compare/Pigeon.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/compare/Sparrow.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/compare/Stork.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/constructorA/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/constructorA/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/constructorA/Student.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/constructorA/Teacher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/constructorB/Coordinate.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/constructorB/mainClass.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/generics/CrunchifyEnumExample.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/generics/ExtendsNum.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/generics/LowerBound.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/generics/SuperExtends.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Unbounded.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/generics/UpperBound.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Vararg.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/hideMethod/Bike.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/hideMethod/EnduranceBike.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/hideMethod/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/hideVariable/EnduranceBike1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/hideVariable/Main1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/hideVariable/RaceBike1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/instance/Bicycle.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/instance/Car.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/instance/InstanceChecker.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/instance/Vehicle.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/instance/Wheel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/math/IntAssigment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/math/IntPlusPlus.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/Employee.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/Interfaces.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/Lambda1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/LambdaExtra.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/LambdaImplementation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/LambdaInference.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/Manager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/MethodReferences.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/NoLoops.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/Scalable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/AllCollisionsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/BasicDetection.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/Box.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/Collision.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/CollisionListCollector.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/CollisionListFunctionalCollector.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/CollisionSetCollector.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/CountingTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/ForEachCollisionCollector.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/GridCollector.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/GridDetection.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/GridSpec.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/GridTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mfaella/collisions/Time.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/overRrideLoad/Bird.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/overRrideLoad/Eagle.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/overVShidden/EnduranceBike.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/overVShidden/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/overVShidden/RaceBike.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/plimorphismProblems/ABController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/plimorphismProblems/Cl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/plimorphismProblems/ClassA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/plimorphismProblems/ClassB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/plimorphismProblems/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/polimorphism/HasTail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/polimorphism/Lemur.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/polimorphism/Primate.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/polimorphismInstanceof/Elephant.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/polimorphismInstanceof/HeavyAnimal.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/polimorphismInstanceof/Hippo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/polimorphismInstanceof/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/duck/GooseWatcher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/goose/Bocian.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/goose/Gosling.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/inland/BirdWatcherFromAfar.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/shore/Bird.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/shore/BirdWatcher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/shore/Ptak.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pond/swan/Swan.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/predicatesA/Apples.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/predicatesA/Mountain.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/rxjavaS/impl/Observer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticFactoryMethod1/RandomDoubleGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticFactoryMethod1/RandomGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticFactoryMethod1/RandomGenerators.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticFactoryMethod1/RandomIntGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticFactoryMethod1/RandomIntGeneratorConstructor.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticFactoryMethod1/RandomIntGeneratorTester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticTests/CallInitOrder.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticTests/InitOrder1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticTests/InitOrder2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticTests/InitOrder3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticTests/StaticImports.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/staticTests/StaticTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/switchCases/swCsOne.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/ClassA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/ClassB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/ClassCounter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Dates.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Format.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Gorilla.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/HuArray.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Immutable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Mouse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/MultiDim.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/NotImmutable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/SubTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Tescior.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Test2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Tests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/web/tester.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,19 +885,124 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/rxjavaS/impl/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/build.gradle">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="273">
+                  <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/settings.gradle">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="42">
+                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Observer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="126">
+                  <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="336">
+                  <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
+            <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="230748">
+                  <caret line="11081" column="28" lean-forward="false" selection-start-line="11081" selection-start-column="28" selection-end-line="11081" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ArrayOperations.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/ArrayOperations.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DefaultMethod.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/DefaultMethod.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="147">
+                  <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PracticeTransactions.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/PracticeTransactions.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="714">
+                  <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RaceLists.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/RaceLists.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="168">
+                  <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SportClub.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/SportClub.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="937">
+                  <caret line="375" column="20" lean-forward="false" selection-start-line="375" selection-start-column="20" selection-end-line="375" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,17 +1015,363 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\patry\.gradle\wrapper\dists\gradle-4.0-bin\3p92xsbhik5vmig8i90n16yxc\gradle-4.0" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="JavaStudy2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="JavaStudy2" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'JavaStudy2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'JavaStudy2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'JavaStudy2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'JavaStudy2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'JavaStudy2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'JavaStudy2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'JavaStudy2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'JavaStudy2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'JavaStudy2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4551795269478" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1522243948" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="566444372" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1079341276" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="JavaStudy2" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-base-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-base-services-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-cli-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-core-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-docs-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-installation-beacon-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-jvm-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-launcher-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-logging-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-messaging-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-model-core-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-model-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-process-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-resources-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-runtime-api-info-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-tooling-api-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-wrapper-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/groovy-all-2.4.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-announce-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-antlr-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-build-cache-http-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-build-comparison-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-build-init-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-code-quality-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-composite-builds-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-dependency-management-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-diagnostics-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-ear-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-ide-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-ide-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-ide-play-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-ivy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-jacoco-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-javascript-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-language-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-language-java-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-language-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-language-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-language-scala-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-maven-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-osgi-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-platform-base-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-platform-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-platform-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-platform-play-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-plugin-development-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-plugin-use-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-plugins-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-publish-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-reporting-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-resources-http-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-resources-s3-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-resources-sftp-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-scala-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-signing-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-test-kit-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-testing-base-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-testing-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-testing-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-tooling-api-builders-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/gradle-workers-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/Concurrency/RvsTEx2/Client.java" />
-        <option value="$PROJECT_DIR$/src/Concurrency/RvsTEx2/Join.java" />
-        <option value="$PROJECT_DIR$/src/rxjavaS/impl/Observer.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java" />
       </list>
     </option>
   </component>
@@ -84,9 +1386,6 @@
     <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1098" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -103,37 +1402,82 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="LambdaStreams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="LambdaStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="LambdaStreamsA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.4007353" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libsrc/rxjava-2.1.9-javadoc.jar!/" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4007353" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,20 +1493,19 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Concurrency.RvsTEx2.*" />
+          <option name="PATTERN" value="rxjavaS.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Concurrency.RvsTEx2.Join" />
+      <option name="MAIN_CLASS_NAME" value="rxjavaS.impl.Launcher" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -171,7 +1514,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStudy" />
+      <module name="JavaStudy2" />
       <envs />
       <method>
         <option name="Make" enabled="false" />
@@ -203,7 +1546,7 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -232,7 +1575,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -254,7 +1597,7 @@
     </configuration>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Join" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Launcher" />
       </list>
     </recent_temporary>
   </component>
@@ -266,44 +1609,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="737b5968-4dcc-450a-a9c6-59118788160b" name="Default" comment="" />
-      <created>1516271161954</created>
+      <changelist id="6708cb48-2ab5-478f-a06b-f256dda08c58" name="Default" comment="" />
+      <created>1517264748124</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1516271161954</updated>
-      <workItem from="1516271166935" duration="3601000" />
-      <workItem from="1516873905128" duration="167000" />
-      <workItem from="1517245021932" duration="1021000" />
+      <updated>1517264748124</updated>
+      <workItem from="1517264749972" duration="5855000" />
+      <workItem from="1517271339405" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4789000" />
+    <option name="totallyTimeSpent" value="5869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1186" extended-state="6" />
     <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3493841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -318,32 +1668,198 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Concurrency/threads_concurrency/appb/ViewPage/v3/ViewPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Concurrency/RvsTEx2/Join.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rxjavaS/impl/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="273">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232701">
+          <caret line="11081" column="28" lean-forward="false" selection-start-line="11081" selection-start-column="28" selection-end-line="11081" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/ArrayOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/DefaultMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/PracticeTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/RaceLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/SportClub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7644">
+          <caret line="375" column="20" lean-forward="false" selection-start-line="375" selection-start-column="20" selection-end-line="375" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sample" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/rxjavaS/impl/Observer.java" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/CrunchifyEnumExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mfaella/Lambda1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230748">
+          <caret line="11081" column="28" lean-forward="false" selection-start-line="11081" selection-start-column="28" selection-end-line="11081" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/CustomCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/ArrayOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/DefaultMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/PracticeTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/RaceLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/SportClub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="937">
+          <caret line="375" column="20" lean-forward="false" selection-start-line="375" selection-start-column="20" selection-end-line="375" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -399,7 +1915,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JavaStudy</last-edited>
+          <last-edited>JavaStudy2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -409,9 +1925,21 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>rxjava-2.1.9</last-edited>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

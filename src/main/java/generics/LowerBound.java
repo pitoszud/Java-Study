@@ -13,8 +13,8 @@ public class LowerBound {
 
         List<Object> objects = new ArrayList<>(numL);
 
-        addNum(numL);
-        addNum(objects);
+        addNum1(numL);
+        addNum2(objects);
     }
 
     public static void addNum1(List<?> list){

@@ -2,6 +2,8 @@ package rxjavaS.impl;
 
 import LambdaStreams.Streams.Collector;
 import io.reactivex.Observable;
+import io.reactivex.ObservableEmitter;
+import io.reactivex.ObservableOnSubscribe;
 import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 
@@ -44,6 +46,20 @@ public class Launcher {
     }
 
     public static void createObs(){
+        Observable<String> observable = Observable.create(new ObservableOnSubscribe<String>() {
+            @Override
+            public void subscribe(ObservableEmitter<String> emitter) throws Exception {
+                try {
+                    emitter.onNext("Task One");
+                    emitter.onNext("Task Two");
+                    //...
+                    emitter.onComplete();
+                } catch (Exception e) {
+                    emitter.onError(e);
+                }
+            }
+        });
+
         Observable<String> source = Observable.create(emitter -> {
             try {
                 emitter.onNext("Task One");
@@ -56,7 +72,7 @@ public class Launcher {
                 emitter.onError(e);
             }
         });
-        source.map(s -> s.length() - 5).subscribe(i -> System.out.println(i));
+        source.map(s -> s.length() - 5).subscribe(System.out::println);
 
     }
 

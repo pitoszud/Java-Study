@@ -2,6 +2,8 @@ package rxjavaS.impl;
 
 import LambdaStreams.Streams.Collector;
 import io.reactivex.Observable;
+import io.reactivex.Observer;
+import io.reactivex.disposables.Disposable;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,23 +16,26 @@ import static java.util.stream.Collectors.*;
 
 public class Launcher {
     public static void main(String[] args) {
-        justObs();
+        //justObs();
         //createObs();
+        onsub();
     }
 
     public static void justObs(){
+        // just
         Observable<String> source1 = Observable.just("Task One", "Task Two", "Task Three", "Task Four", "Task Five");
         source1.map(String::length).subscribe(System.out::println);
 
 
+        // fromIterable
         List<Integer> ageList = Arrays.asList(1982, 1983, 1997, 1993, 2000, 1970, 1963, 1948, 1955, 1958);
         Observable<Integer> source2 = Observable.fromIterable(ageList)
-                .filter(a -> a >= 18)
-                .map(a -> 2018 - a);
+                .map(a -> 2018 - a)
+                .filter(a -> a >= 18);
         source2.subscribe(System.out::println);
 
 
-        // comapre with Java stream
+        // compare RxJava Observable with Java streams
         List<String> strL = Arrays.asList("Task One", "Task Two", "Task Three", "Task Four", "Task Five");
         List<Integer> intL = strL
                 .stream()
@@ -52,6 +57,47 @@ public class Launcher {
             }
         });
         source.map(s -> s.length() - 5).subscribe(i -> System.out.println(i));
+
+    }
+
+
+    public static void onsub(){
+        Observable<Integer> source3 = Observable.just(35, 23, 19, 53, 20, 17, 63, 48, 55, 38);
+
+        Observer<Integer> obs1 = new Observer<Integer>(){
+
+            @Override
+            public void onSubscribe(Disposable d) {
+
+            }
+
+            @Override
+            public void onNext(Integer val) {
+                System.out.println("received: " + val);
+            }
+
+            @Override
+            public void onError(Throwable e) {
+
+            }
+
+            @Override
+            public void onComplete() {
+                System.out.println("Done");
+            }
+        };
+
+        source3.map(b -> 2018 - b)
+                .filter(y -> y < 1998)
+                .subscribe(obs1);
+
+        // passing arguments to onNext, onError, onComplete
+        source3.map(b -> 2018 - b)
+                .filter(y -> y < 1998)
+                .subscribe(
+                        val -> System.out.println("recived " + val),
+                        Throwable::printStackTrace,
+                        () -> System.out.println("done"));
 
     }
 

@@ -1,26 +1,21 @@
 package rxjavaS.impl;
 
-import LambdaStreams.Streams.Collector;
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
 import io.reactivex.ObservableOnSubscribe;
 import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
+import io.reactivex.observables.ConnectableObservable;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
-import static java.util.stream.Collectors.*;
 
 public class Launcher {
     public static void main(String[] args) {
-        //justObs();
+        justObs();
         //createObs();
-        onsub();
+        //onNextMethod();
     }
 
     public static void justObs(){
@@ -37,6 +32,17 @@ public class Launcher {
         source2.subscribe(System.out::println);
 
 
+        // ConnectableObservable
+        ConnectableObservable<String> source3 = Observable.just("Anna", "Andrzej", "Kamil", "Eryk", "Iwona", "Oliwia", "Natalia", "Paulina", "Patryk")
+                .publish();
+        source3.subscribe(System.out::println);
+        source3.subscribe(s -> System.out.println("last char : " + s.charAt(s.length()-1)));
+        source3.map(String::length).subscribe(l -> System.out.println("at index " + (l-1)));
+        source3.connect();
+
+
+
+
         // compare RxJava Observable with Java streams
         List<String> strL = Arrays.asList("Task One", "Task Two", "Task Three", "Task Four", "Task Five");
         List<Integer> intL = strL
@@ -46,7 +52,7 @@ public class Launcher {
     }
 
     public static void createObs(){
-        Observable<String> observable = Observable.create(new ObservableOnSubscribe<String>() {
+        Observable<String> source1 = Observable.create(new ObservableOnSubscribe<String>() {
             @Override
             public void subscribe(ObservableEmitter<String> emitter) throws Exception {
                 try {
@@ -59,8 +65,9 @@ public class Launcher {
                 }
             }
         });
+        source1.map(s -> s.length() + 5).subscribe(System.out::println);
 
-        Observable<String> source = Observable.create(emitter -> {
+        Observable<String> source2 = Observable.create(emitter -> {
             try {
                 emitter.onNext("Task One");
                 emitter.onNext("Task Two");
@@ -72,12 +79,12 @@ public class Launcher {
                 emitter.onError(e);
             }
         });
-        source.map(s -> s.length() - 5).subscribe(System.out::println);
+        source2.map(s -> s.length() - 5).subscribe(System.out::println);
 
     }
 
 
-    public static void onsub(){
+    public static void onNextMethod(){
         Observable<Integer> source3 = Observable.just(35, 23, 19, 53, 20, 17, 63, 48, 55, 38);
 
         Observer<Integer> obs1 = new Observer<Integer>(){

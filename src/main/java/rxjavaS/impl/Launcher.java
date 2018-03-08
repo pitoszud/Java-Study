@@ -24,7 +24,7 @@ public class Launcher {
         source1.map(String::length).subscribe(System.out::println);
 
 
-        // fromIterable
+        // fromIterable (Observable subscribes single ObservableMethods)
         List<Integer> ageList = Arrays.asList(1982, 1983, 1997, 1993, 2000, 1970, 1963, 1948, 1955, 1958);
         Observable<Integer> source2 = Observable.fromIterable(ageList)
                 .map(a -> 2018 - a)
@@ -32,9 +32,10 @@ public class Launcher {
         source2.subscribe(System.out::println);
 
 
-        // ConnectableObservable
+        // ConnectableObservable (Observable subscribes many Observers)
         ConnectableObservable<String> source3 = Observable.just("Anna", "Andrzej", "Kamil", "Eryk", "Iwona", "Oliwia", "Natalia", "Paulina", "Patryk")
                 .publish();
+
         source3.subscribe(System.out::println);
         source3.subscribe(s -> System.out.println("last char : " + s.charAt(s.length()-1)));
         source3.map(String::length).subscribe(l -> System.out.println("at index " + (l-1)));
@@ -87,7 +88,7 @@ public class Launcher {
     public static void onNextMethod(){
         Observable<Integer> source3 = Observable.just(35, 23, 19, 53, 20, 17, 63, 48, 55, 38);
 
-        Observer<Integer> obs1 = new Observer<Integer>(){
+        Observer<Integer> source4 = new Observer<Integer>(){
 
             @Override
             public void onSubscribe(Disposable d) {
@@ -112,7 +113,7 @@ public class Launcher {
 
         source3.map(b -> 2018 - b)
                 .filter(y -> y < 1998)
-                .subscribe(obs1);
+                .subscribe(source4);
 
         // passing arguments to onNext, onError, onComplete
         source3.map(b -> 2018 - b)
@@ -135,6 +136,6 @@ public class Launcher {
 
     //str.map(s -> s.length()).subscribe(i -> System.out.println(i));
     // return subscribe(onNext, Functions...) ==> public final Disposable subscribe(Consumer<? super T> onNext)
-    // subscribe(ls); ==> public final void subscribe(Observer<? super T> observer)
+    // subscribe(ls); ==> public final void subscribe(ObservableMethods<? super T> observer)
     // return ls ==> new LambdaObserver<T>(onNext, onError, onComplete, onSubscribe);
 }

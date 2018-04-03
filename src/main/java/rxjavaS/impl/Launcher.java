@@ -13,9 +13,10 @@ import java.util.stream.Collectors;
 
 public class Launcher {
     public static void main(String[] args) {
-        justObs();
+        //justObs();
         //createObs();
         //onNextMethod();
+        fromCallableMethod();
     }
 
     public static void justObs(){
@@ -126,6 +127,13 @@ public class Launcher {
     }
 
 
+    public static void fromCallableMethod(){
+        String str = null;
+        Observable.fromCallable(() -> str.equals("A"))
+                .subscribe(i -> System.out.println("received: " + i), e -> System.err.println("Err: " + e));
+    }
+
+
 
 
     //Observable<String> str = Observable.just("Task One", "Task Two", "Task Three", "Task Four", "Task Five");
@@ -135,7 +143,7 @@ public class Launcher {
     // return f.apply(t); ==> R apply(@NonNull T t) throws Exception;
 
     //str.map(s -> s.length()).subscribe(i -> System.out.println(i));
-    // return subscribe(onNext, Functions...) ==> public final Disposable subscribe(Consumer<? super T> onNext)
+    // return subscribe(onNext, Functions...) ==> public final DisposeEx subscribe(Consumer<? super T> onNext)
     // subscribe(ls); ==> public final void subscribe(ObservableMethods<? super T> observer)
     // return ls ==> new LambdaObserver<T>(onNext, onError, onComplete, onSubscribe);
 }

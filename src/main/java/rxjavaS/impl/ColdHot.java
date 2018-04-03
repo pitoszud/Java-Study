@@ -33,7 +33,7 @@ public class ColdHot {
 
             myObserver = new ObservableMethods() {
                 @Override
-                public void onSubscribe(Disposable d) {
+                public void onSubscribe(DisposeEx d) {
 
                 }
 

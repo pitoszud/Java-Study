@@ -53,6 +53,7 @@ public class Launcher {
                 .collect(Collectors.toList());
     }
 
+    // Observable.create
     public static void createObs(){
         Observable<String> source1 = Observable.create(new ObservableOnSubscribe<String>() {
             @Override
@@ -90,10 +91,11 @@ public class Launcher {
         Observable<Integer> source3 = Observable.just(35, 23, 19, 53, 20, 17, 63, 48, 55, 38);
 
         Observer<Integer> source4 = new Observer<Integer>(){
+            //private Disposable d;
 
             @Override
             public void onSubscribe(Disposable d) {
-
+                //this.d = d;
             }
 
             @Override
@@ -110,6 +112,7 @@ public class Launcher {
             public void onComplete() {
                 System.out.println("Done");
             }
+
         };
 
         source3.map(b -> 2018 - b)

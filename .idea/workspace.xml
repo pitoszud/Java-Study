@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6708cb48-2ab5-478f-a06b-f256dda08c58" name="Default" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/JavaStudy2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/JavaStudy2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CalculateE$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ThreadDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ThreadDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/ViewPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ViewPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/DisposeEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/DisposeEx.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/Launcher$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/Launcher$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/Launcher$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/Launcher$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/Launcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/ObservableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rxjavaS/impl/ObservableMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/ColdHot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/ColdHot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -34,20 +32,67 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaStudy2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaStudy2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaStudy2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4859375">
+    <splitter split-orientation="horizontal" split-proportion="0.48508635">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1936">
+                  <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BasicOperator.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="66">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="ColdHot.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ColdHot.java">
               <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-                <state relative-caret-position="286">
-                  <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-=======
-                <state relative-caret-position="168">
+                <state relative-caret-position="176">
                   <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
                   <folding>
                     <element signature="e#122#123#0" expanded="true" />
                     <element signature="e#144#145#0" expanded="true" />
@@ -59,25 +104,8 @@
           <file leaf-file-name="ObservableMethods.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ObservableMethods.java">
               <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-                <state relative-caret-position="851">
-                  <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="DisposeEx.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-=======
-                <state relative-caret-position="352">
-                  <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
+                <state relative-caret-position="220">
+                  <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -88,28 +116,12 @@
         </leaf>
       </split-first>
       <split-second>
-<<<<<<< HEAD
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+          <file leaf-file-name="DisposeEx.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="301">
-                  <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-=======
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="528">
-                  <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#3449#3450#0" expanded="true" />
-                    <element signature="e#3519#3520#0" expanded="true" />
-                    <element signature="e#3666#3667#0" expanded="true" />
-                    <element signature="e#3724#3725#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="445">
+                  <caret line="99" column="34" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -128,8 +140,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>cast</find>
-      <find>observer</find>
       <find>Observer</find>
+      <find>observer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,7 +150,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\patry\.gradle\wrapper\dists\gradle-4.0-all\ac27o8rbd0ic8ih41or9l32mv\gradle-4.0" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\upatryk\.gradle\wrapper\dists\gradle-4.0-all\ac27o8rbd0ic8ih41or9l32mv\gradle-4.0" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -313,11 +325,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="6071661757139" />
-=======
-        <entry key="$PROJECT_DIR$" value="6087757824054" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1522243948" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="566444372" />
@@ -497,13 +505,11 @@
         <option value="$PROJECT_DIR$/src/main/java/generics/LowerBound.java" />
         <option value="$PROJECT_DIR$/src/main/java/mfaella/LambdaInference.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/ColdHot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Observer.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/ObservableMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/SingleMaybeCompletable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/OperatorsPart1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Disposable.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java" />
       </list>
     </option>
   </component>
@@ -513,16 +519,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< HEAD
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="width" value="1929" />
     <option name="height" value="1046" />
-=======
-    <option name="x" value="260" />
-    <option name="y" value="85" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -532,12 +534,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="PackagesPane" />
-=======
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -565,6 +561,14 @@
             </path>
             <path>
               <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -572,6 +576,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -580,16 +586,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-=======
-    <property name="last_opened_file_path" value="E:/ScalaStudy" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4007353" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -603,7 +606,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DisposeEx">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -622,13 +625,8 @@
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
     <configuration name="DisposeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rxjavaS.impl.DisposeEx" />
-=======
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rxjavaS.impl.Launcher" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
       <module name="JavaStudy2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
@@ -637,7 +635,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-<<<<<<< HEAD
       <method>
         <option name="Make" enabled="false" />
         <option name="MakeNoErrorCheck" enabled="true" />
@@ -653,8 +650,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-=======
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
       <method>
         <option name="Make" enabled="false" />
         <option name="MakeNoErrorCheck" enabled="true" />
@@ -745,21 +740,13 @@
       <item itemvalue="Application.Launcher" />
       <item itemvalue="Application.ColdHot" />
       <item itemvalue="Application.ObservableMethods" />
-<<<<<<< HEAD
       <item itemvalue="Application.DisposeEx" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DisposeEx" />
-        <item itemvalue="Application.Launcher" />
-        <item itemvalue="Application.ObservableMethods" />
-=======
-    </list>
-    <recent_temporary>
-      <list>
         <item itemvalue="Application.ObservableMethods" />
         <item itemvalue="Application.Launcher" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
         <item itemvalue="Application.ColdHot" />
       </list>
     </recent_temporary>
@@ -783,95 +770,51 @@
       <workItem from="1519395550167" duration="5131000" />
       <workItem from="1520510130273" duration="117000" />
       <workItem from="1520510522958" duration="4933000" />
-<<<<<<< HEAD
-      <workItem from="1521559851653" duration="181000" />
-      <workItem from="1522316234483" duration="944000" />
-      <workItem from="1522751393508" duration="6560000" />
-=======
-      <workItem from="1522533886343" duration="1354000" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
+      <workItem from="1523546670777" duration="503000" />
+      <workItem from="1523547273328" duration="32000" />
+      <workItem from="1523547343298" duration="1938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="45824000" />
+    <option name="totallyTimeSpent" value="40612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1929" height="1046" extended-state="0" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32659933" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.53198653" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17447917" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32760596" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32884398" />
-      <window_info anchor="right" id="Gradle" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-=======
-    <option name="totallyTimeSpent" value="39493000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.2857143" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32875144" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32760596" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36685714" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38373426" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12715855" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2093145" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32967034" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.328" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914287" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -881,7 +824,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/ArrayOperations.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/DefaultMethod.java" />
@@ -901,7 +843,6 @@
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/function/ToIntFunction.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/SuperExtends.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Unbounded.java" />
-<<<<<<< HEAD
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/annotations/CheckReturnValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -909,9 +850,6 @@
         </state>
       </provider>
     </entry>
-=======
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/annotations/CheckReturnValue.java" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
     <entry file="file://$PROJECT_DIR$/src/main/java/polimorphism/Primate.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pond/goose/Gosling.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pond/goose/Bocian.java" />
@@ -925,7 +863,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/polimorphismInstanceof/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/polimorphismInstanceof/Hippo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/polimorphism/Lemur.java" />
-<<<<<<< HEAD
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/functions/Function.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -947,16 +884,10 @@
         </state>
       </provider>
     </entry>
-=======
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/functions/Function.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/functions/Consumer.java" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
     <entry file="file://$PROJECT_DIR$/src/main/java/mfaella/LambdaInference.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/overVShidden/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/LowerBound.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/InterfaceEx4.java" />
-<<<<<<< HEAD
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/ObservableOnSubscribe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -964,9 +895,6 @@
         </state>
       </provider>
     </entry>
-=======
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/ObservableOnSubscribe.java" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -983,32 +911,15 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="272">
           <caret line="11170" column="28" selection-start-line="11170" selection-start-column="28" selection-end-line="11170" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Single.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-=======
-        <state relative-caret-position="44">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ColdHot.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="286">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-=======
-        <state relative-caret-position="168">
+        <state relative-caret-position="176">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#144#145#0" expanded="true" />
@@ -1016,14 +927,10 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ObservableMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch06/PC/PC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -1034,39 +941,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ObservableMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-=======
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
+        <state relative-caret-position="220">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3449#3450#0" expanded="true" />
-            <element signature="e#3519#3520#0" expanded="true" />
-            <element signature="e#3666#3667#0" expanded="true" />
-            <element signature="e#3724#3725#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="308">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-=======
-        <state relative-caret-position="352">
-          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
->>>>>>> 14e10cc687b398d73dd71e1928902fd4378a1c44
+        <state relative-caret-position="445">
+          <caret line="99" column="34" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

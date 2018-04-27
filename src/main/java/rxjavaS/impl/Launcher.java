@@ -90,7 +90,7 @@ public class Launcher {
     public static void onNextMethod(){
         Observable<Integer> source3 = Observable.just(35, 23, 19, 53, 20, 17, 63, 48, 55, 38);
 
-        Observer<Integer> source4 = new Observer<Integer>(){
+        Observer<Integer> target3 = new Observer<Integer>(){
             //private Disposable d;
 
             @Override
@@ -100,6 +100,7 @@ public class Launcher {
 
             @Override
             public void onNext(Integer val) {
+                val = val * val;
                 System.out.println("received: " + val);
             }
 
@@ -117,7 +118,9 @@ public class Launcher {
 
         source3.map(b -> 2018 - b)
                 .filter(y -> y < 1998)
-                .subscribe(source4);
+                .subscribe(target3);
+
+
 
         // passing arguments to onNext, onError, onComplete
         source3.map(b -> 2018 - b)

@@ -2,276 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6708cb48-2ab5-478f-a06b-f256dda08c58" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_2_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/Executors/FixedRA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/JavaStudy2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/JavaStudy2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/OtherOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Await$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Await.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/BackAndForth$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/BackAndForth$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/BackAndForth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CSDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CalculateE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CheckingAccount$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CheckingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Concurrency/threads_concurrency/ch01/ThreadDemo/v1/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CountDownLatchDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CountDownLatchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CountingThreads$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CountingThreads.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CyclicBarrierDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/DataBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/DeadlockDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/DeadlockDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/DeadlockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Dictionary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ExceptionThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ExceptionThread$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ExceptionThread$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ExceptionThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ExchangerDemo$1EmptyingLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ExchangerDemo$1FillingLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ExchangerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/InheritableThreadLocalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/IntSleep$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/IntSleep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/JoinDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MatMult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/NamedThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/PC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/PhaserDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Planets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Pool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Projector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/RLDemo$1Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/RLDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Screen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/SemaphoreDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/SemaphoreDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Shared.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Slide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/SlideShow$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/SlideShow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Solver$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Solver$Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Solver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/TestID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ThreadLocalDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ThreadLocalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ThreadStopping$1StoppableThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ThreadStopping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/TimerDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/TimerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/UsePlanets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ViewPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch01/IntSleep/IntSleep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch02/CheckingAccount/CheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch03/Await/Await.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch04/BackAndForth/BackAndForth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch05/CountingThreads/v1/CountingThreads.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch05/CountingThreads/v2/CountingThreads.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch06/PC/PC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch07/ID/ID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch07/ID/TestID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/Counter/Counter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/67p.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/adrastea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/amalthea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ariel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/atlas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/buzzaldrin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/callisto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/calypso.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ceres5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/charon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/charsurf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/cv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/deimos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/despina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/dione.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/dione2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/dione3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/dione4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/earth.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/earth2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/earth3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/earthrise.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/earthsys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/edge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/em.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/emmars.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/enceladus4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/epimetheus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/eris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/europa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/galatea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ganymede.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/gaspra.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/halley.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/halnuc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/helene.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/hydra.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/hyperion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/hyperion2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/iapetus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ida.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/io.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ioeuropa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/iss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/janus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/jupclose.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/jupiter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/jupsys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/kb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/larissa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/makemake.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mars.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsgold.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marspole.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marssys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/marsurf7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mercsurf5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mercury.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mercury2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/metis.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/mimas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/miranda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/moon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/moonsurf1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/moonsurf2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/naiad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/ncc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/nepsys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/neptune.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/nereid.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/nix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/oberon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/oort.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/pan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/pandora.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/phobos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/phoebe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutchar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/pluto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/pluto2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutosys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsurf4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/plutsys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/prometheus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/proteus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/puck.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/quaoar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/rhea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/satsys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/saturn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/saturndm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/saturnnp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/sedna.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/sol.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/sol2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/sol3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/telesto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/tethys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/thalassa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/thebe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/titan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/titania.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/titsurf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/triton.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/umbriel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/uranus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/uranus2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/urasys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/vensurf3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/venus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta-snowman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta-southpole.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/ss/vesta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/SlideShow/v1/SlideShow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/ViewPage/v1/ViewPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/ViewPage/v2/ViewPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/ViewPage/v3/ViewPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/ViewPage/v4/ViewPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch01/ThreadDemo/v1/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch01/ThreadDemo/v2/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch01/ThreadDemo/v3/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch01/ThreadDemo/v4/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/DeadlockDemo/DeadlockDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ID/v1/ID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ID/v2/ID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ID/v3/ID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ID/v4/ID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/JoinDemo/v1/JoinDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/JoinDemo/v2/JoinDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ThreadStopping/v1/ThreadStopping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ThreadStopping/v2/ThreadStopping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ThreadStopping/v3/ThreadStopping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/ThreadStopping/v4/ThreadStopping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/UsePlanets/Planets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch02/UsePlanets/UsePlanets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch03/PC/v1/PC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch03/PC/v2/PC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch04/ExceptionThread/v1/ExceptionThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch04/ExceptionThread/v2/ExceptionThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch04/InheritableThreadLocalDemo/InheritableThreadLocalDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch04/ThreadLocalDemo/ThreadLocalDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch04/TimerDemo/v1/TimerDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch04/TimerDemo/v2/TimerDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch05/CalculateE/CalculateE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch06/CountDownLatchDemo/CountDownLatchDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch06/CyclicBarrierDemo/CyclicBarrierDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch06/ExchangerDemo/ExchangerDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch06/PhaserDemo/PhaserDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch06/SemaphoreDemo/SemaphoreDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch07/Dictionary/Dictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch07/PC/PC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch07/RLDemo/RLDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/CSDemo/CSDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/ID/v1/ID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/ID/v2/ID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/MatMult/v1/MatMult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/MatMult/v1/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/MatMult/v2/MatMult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/MatMult/v2/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/PC/PC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/TakeOperators.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -320,13 +53,13 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43496802">
+    <splitter split-orientation="horizontal" split-proportion="0.35069817">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
+                <state relative-caret-position="308">
                   <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -335,15 +68,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="FixedRA.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="FixedRA.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/FixedRA.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-                  <folding>
-                    <element signature="e#193#194#0" expanded="true" />
-                    <element signature="e#218#219#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="330">
+                  <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
                 </state>
               </provider>
             </entry>
@@ -351,7 +80,7 @@
           <file leaf-file-name="ColdHot.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ColdHot.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
+                <state relative-caret-position="176">
                   <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
                   <folding>
                     <element signature="e#122#123#0" expanded="true" />
@@ -361,7 +90,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ObservableMethods.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="ObservableMethods.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ObservableMethods.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
@@ -380,17 +109,17 @@
           <file leaf-file-name="DisposeEx.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1470">
+                <state relative-caret-position="1540">
                   <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BasicOperator.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java">
+          <file leaf-file-name="TakeOperators.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/TakeOperators.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="15" selection-start-line="15" selection-end-line="15" />
+                <state relative-caret-position="141">
+                  <caret line="75" column="5" lean-forward="true" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -398,13 +127,15 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Fixed.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.java">
+          <file leaf-file-name="OtherOperators.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/OtherOperators.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
-                  <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+                <state relative-caret-position="286">
+                  <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#203#204#0" expanded="true" />
+                    <element signature="e#225#226#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -620,7 +351,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6099840098191" />
+        <entry key="$PROJECT_DIR$" value="6078821224143" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3791711658" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="566444372" />
@@ -831,12 +562,14 @@
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/ObservableMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.kt" />
         <option value="$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/ID/v1/ID.java" />
         <option value="$PROJECT_DIR$/src/main/java/Concurrency/Executors/FixedRA.java" />
         <option value="$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/TakeOperators.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/OtherOperators.java" />
       </list>
     </option>
   </component>
@@ -850,10 +583,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1186" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -863,9 +596,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -897,21 +629,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaStudy2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="Executors" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -940,17 +665,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OtherOperators">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Fixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Concurrency.Executors.Fixed" />
+    <configuration name="OtherOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rxjavaS.impl.OtherOperators" />
       <module name="JavaStudy2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Concurrency.Executors.*" />
+          <option name="PATTERN" value="rxjavaS.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rxjavaS.impl.TakeOperators" />
+      <module name="JavaStudy2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rxjavaS.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1000,34 +740,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="JavaStudy2" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
+    <list>
+      <item itemvalue="Application.TakeOperators" />
+      <item itemvalue="Application.OtherOperators" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fixed" />
+        <item itemvalue="Application.OtherOperators" />
+        <item itemvalue="Application.TakeOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -1059,50 +779,50 @@
       <workItem from="1525061892061" duration="1083000" />
       <workItem from="1525063743991" duration="32000" />
       <workItem from="1525063854772" duration="2004000" />
+      <workItem from="1527004304179" duration="2118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48897000" />
+    <option name="totallyTimeSpent" value="51015000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1186" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2931634" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.60097563" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.60023177" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38341463" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28505215" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21268657" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21267454" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.32967034" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Mongo Explorer" order="3" />
       <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914287" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.28292683" />
-      <window_info anchor="right" id="Flutter Outline" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
@@ -1113,7 +833,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/RaceLists.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/LambdaStreams/LambdaStreamsA/SportClub.java" />
     <entry file="file://$PROJECT_DIR$/src/main/sample" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/rxjavaS/impl/Observer.java" />
@@ -1162,13 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/functions/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mfaella/LambdaInference.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/overVShidden/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/LowerBound.java" />
@@ -1186,28 +898,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch06/PC/PC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appa/ch06/PC/PC.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
+        <state relative-caret-position="1540">
           <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/ColdHot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="176">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#144#145#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="2611" column="36" selection-start-line="2611" selection-start-column="36" selection-end-line="2611" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/ViewPage/v2/ViewPage.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/ID/v1/ID.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/FixedRA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1221,87 +961,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Observable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="2611" column="36" selection-start-line="2611" selection-start-column="36" selection-end-line="2611" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/appb/ViewPage/v2/ViewPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/BasicOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="198">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/functions/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="308">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/TakeOperators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="141">
+          <caret line="75" column="5" lean-forward="true" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/threads_concurrency/ch08/ID/v1/ID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/InterfaceEx4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        <state relative-caret-position="255">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
           <folding>
-            <element signature="e#1349#1350#0" expanded="true" />
             <element signature="e#1399#1400#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/FixedRA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/OtherOperators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/Executors/Fixed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="286">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
           </folding>
         </state>
       </provider>

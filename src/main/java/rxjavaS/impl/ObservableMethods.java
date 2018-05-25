@@ -46,8 +46,12 @@ public class ObservableMethods {
         sleep(5000);
     }
 
-
-
+    public static void delayOp() {
+        Observable.interval(1, TimeUnit.SECONDS)
+                .delay(3, TimeUnit.SECONDS)
+                .subscribe(s -> System.out.println(s + " Ba, ba black sheep..."));
+        sleep(5000);
+    }
 
 
 

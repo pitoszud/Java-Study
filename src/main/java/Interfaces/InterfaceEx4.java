@@ -46,10 +46,10 @@ public class InterfaceEx4 {
     
     public interface Wolf extends DarkForest{
         // DOES NOT COMPILE - must be default or abstract
-        @Override
-        public void getName(){
-            System.out.println("Wolf");
-        }
+//        @Override
+//        public void getName(){
+//            System.out.println("Wolf");
+//        }
     }
     
     

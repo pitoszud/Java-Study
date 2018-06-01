@@ -1,5 +1,6 @@
 package gson.SerializeA;
 
+
 public class SerializeEx
 {
     public static void main(String[] args)

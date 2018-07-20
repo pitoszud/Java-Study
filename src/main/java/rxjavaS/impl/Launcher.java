@@ -33,18 +33,6 @@ public class Launcher {
         source2.subscribe(System.out::println);
 
 
-        // ConnectableObservable (Observable subscribes many Observers)
-        ConnectableObservable<String> source3 = Observable.just("Anna", "Andrzej", "Kamil", "Eryk", "Iwona", "Oliwia", "Natalia", "Paulina", "Patryk")
-                .publish();
-
-        source3.subscribe(System.out::println);
-        source3.subscribe(s -> System.out.println("last char : " + s.charAt(s.length()-1)));
-        source3.map(String::length).subscribe(l -> System.out.println("at index " + (l-1)));
-        source3.connect();
-
-
-
-
         // compare RxJava Observable with Java streams
         List<String> strL = Arrays.asList("Task One", "Task Two", "Task Three", "Task Four", "Task Five");
         List<Integer> intL = strL

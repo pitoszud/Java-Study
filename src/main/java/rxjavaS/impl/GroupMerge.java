@@ -1,20 +1,22 @@
 package rxjavaS.impl;
 
 import io.reactivex.Observable;
+import io.reactivex.observables.GroupedObservable;
 
 import java.time.LocalTime;
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class Merging {
+public class GroupMerge {
     public static void main(String[] args) {
         //simpleMarge();
         //flatMapOp();
         //simpleConcat();
         //concatWithTake(2);
         //simpleZipping();
-        simpleCombineLatest();
+        //simpleCombineLatest();
+        simpleLatestFrom();
     }
 
 
@@ -130,10 +132,24 @@ public class Merging {
 
     //SOURCE 1: 9 SOURCE 2: 2 - source 1 starts from the latest emission 9
 
+    private static void simpleLatestFrom(){
+        Observable<Long> source1 = Observable.interval(300, TimeUnit.MILLISECONDS);
+        Observable<Long> source2 = Observable.interval(1, TimeUnit.SECONDS);
+        source2.withLatestFrom(source1, (l1,l2) -> "SOURCE 1: " + l1 + " SOURCE 2: " + l2)
+                .subscribe(System.out::println);
+
+        sleep(3000);
+    }
+
+    //SOURCE 1: 0 SOURCE 2: 2
+    //SOURCE 1: 1 SOURCE 2: 5
 
 
 
-
+    public static void simpleGrouping(){
+        Observable<String> source = Observable.just("one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten");
+        Observable<GroupedObservable<Integer, String>> byLength = source.groupBy(String::length);
+    }
 
 
 

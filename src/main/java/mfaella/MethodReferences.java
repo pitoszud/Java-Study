@@ -90,7 +90,7 @@ public class MethodReferences {
 		
 		// A useful application: building a comparator based on a field
 		
-		// comparing expects Function<Employee, U>,
+		// comparing expects Function<EmployeeClass, U>,
 		// where U supports natural ordering (i.e., Comparable)
 		
 		Comparator<Employee> byName = 
@@ -145,7 +145,7 @@ public class MethodReferences {
 		System.out.println("");
 		
 		// Compile-time error: type inference failure
-		// printAll(dept, Employee::getSalary);
+		// printAll(dept, EmployeeClass::getSalary);
 
 		printAll(dept, emp -> "" + emp.getSalary());
 		

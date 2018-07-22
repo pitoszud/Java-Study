@@ -1,5 +1,11 @@
 package gson;
 
+import com.google.gson.*;
+
+
+import java.io.IOException;
+import java.lang.reflect.Type;
+
 public class GsonDemo3
 {
     static class Person {

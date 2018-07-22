@@ -1,6 +1,10 @@
 package gson.SerializeA;
 
 
+import com.google.gson.*;
+
+import java.lang.reflect.Type;
+
 public class SerializeEx
 {
     public static void main(String[] args)

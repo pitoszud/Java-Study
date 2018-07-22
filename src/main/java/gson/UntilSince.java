@@ -1,6 +1,11 @@
 package gson;
 
-public class SinceUntil {
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.annotations.Since;
+import com.google.gson.annotations.Until;
+
+class SinceUntil {
     @Since(1.0)
     @Until(2.5)
     static class SomeClass {

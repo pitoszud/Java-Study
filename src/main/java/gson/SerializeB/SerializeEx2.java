@@ -1,20 +1,24 @@
 package gson.SerializeB;
 
+import com.google.gson.*;
+
+import java.lang.reflect.Type;
+
 public class SerializeEx2 {
     static class Date {
         int year;
         int month;
-        int day;
+        int day;
         Date(int year, int month, int day) {
             this.year = year;
             this.month = month;
             this.day = day;
         }
-    }
+    }
     static class Employee {
         String name;
         Date hireDate;
-    }
+    }
     public static void main(String[] args) {
         Employee e = new Employee();
         e.name = "John Doe";

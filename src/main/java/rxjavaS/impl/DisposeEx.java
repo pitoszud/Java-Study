@@ -48,7 +48,7 @@ public class DisposeEx {
         ResourceObserver<Long> observer4 = new ResourceObserver<Long>() {
             @Override
             public void onNext(Long value) {
-                System.out.println(value);
+                System.out.println("Observer 0 " + value);
             }
 
             @Override
@@ -62,16 +62,15 @@ public class DisposeEx {
             }
         };
 
-        Disposable d = source4.subscribeWith(observer4);
+        Disposable d0 = source4.subscribeWith(observer4);
 
-
-        CompositeDisposable compDisp = new CompositeDisposable();
-
-        Disposable d1 = source4.subscribe(e -> System.out.println("Observer 1" + e));
+        Disposable d1 = source4.subscribe((Long e) -> System.out.println("Observer 1" + e));
         Disposable d2 = source4.subscribe(e -> System.out.println("Observer 2" + e));
         Disposable d3 = source4.subscribe(e -> System.out.println("Observer 3" + e));
 
-        compDisp.addAll(d1, d2, d3);
+        CompositeDisposable compDisp = new CompositeDisposable();
+
+        compDisp.addAll(d0, d1, d2, d3);
 
         sleep(5000);
 

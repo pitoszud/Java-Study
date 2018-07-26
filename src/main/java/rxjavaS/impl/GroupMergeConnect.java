@@ -6,9 +6,10 @@ import io.reactivex.observables.GroupedObservable;
 import java.time.LocalTime;
 import java.util.Arrays;
 import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
 
-public class GroupMerge {
+public class GroupMergeConnect {
     public static void main(String[] args) {
         //simpleMarge();
         //flatMapOp();
@@ -16,7 +17,8 @@ public class GroupMerge {
         //concatWithTake(2);
         //simpleZipping();
         //simpleCombineLatest();
-        simpleLatestFrom();
+        //simpleLatestFrom();
+        simpleAutoConnect();
     }
 
 
@@ -144,6 +146,18 @@ public class GroupMerge {
     //SOURCE 1: 0 SOURCE 2: 2
     //SOURCE 1: 1 SOURCE 2: 5
 
+
+    private static void simpleAutoConnect(){
+        Observable<Integer> threeRandomSource = Observable.range(1,3)
+                .map(i -> ThreadLocalRandom.current().nextInt(100000))
+                .publish()
+                .autoConnect(2);
+
+        threeRandomSource.subscribe(i -> System.out.println("Observer 1: " + i));
+        threeRandomSource.reduce(0, (total, next) -> total + next)
+                .subscribe(i -> System.out.println("Observer 2: " + i));
+
+    }
 
 
     public static void simpleGrouping(){

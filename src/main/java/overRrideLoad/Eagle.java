@@ -38,16 +38,21 @@ public class Eagle extends Bird {
     }
     
     // DOES NOT COMPILE - type changed (not covariant)
+    /*
     public Long run(String name){
         return 5L;
     }
+    */
     
     
     // DOES NOT COMPILE - exception is broader
+    /*
     private String run(String str){
         return "";
     }
-    
+    */
+
+
     // ignore error - String run(String str) already defined
     @Override
     public String run(String str){ // overriden - no change to type and signature
@@ -74,11 +79,14 @@ public class Eagle extends Bird {
     
     
     // DOES NOT COMPILE - overriden method in Bird is static
+    /*
     @Override
     public void eat(int food){
         System.out.println("Bird is eating " + food + " units of food.");
     }
-    
+    */
+
+
     public static void eat(){ // overloaded - signature changed
         System.out.println("eat something");
     }

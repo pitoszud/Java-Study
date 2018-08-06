@@ -16,10 +16,10 @@ public class Bocian extends Ptak {
         int s2 = new Ptak().s; // y,y,y,Y - public
         
         int i2 = i; // y,y,Y,n - extends Ptak required
-        int i1 = new Ptak().i; // y,y,y,N - protected
+        //int i1 = new Ptak().i; // y,y,y,N - DOES NOT COMPILE - protected in pond.shore.Ptak
         
-        int k2 = k; // y,y,N,n
-        int k1 = new Ptak().k; // y,y,n,N
+        //int k2 = k; // y,y,N,n - DOES NOT COMPILE - k is not public in pond.shore.Ptak
+        //int k1 = new Ptak().k; // y,y,n,N - DOES NOT COMPILE - k is not public in pond.shore.Ptak
         
         
         int r1 = Ptak.r; // Y

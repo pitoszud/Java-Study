@@ -13,7 +13,8 @@ public class ExcInh {
     class AnimalsOutForAWalk extends RuntimeException { }
     class ExhibitClosed extends RuntimeException { }
     class ExhibitClosedForLunch extends ExhibitClosed { }
-    
+
+    /*
     public void visitMonkeys(){
         try {
             seeAnimal();
@@ -23,7 +24,9 @@ public class ExcInh {
             System.out.println(ecfl);
         }
     }
-    
+    */
+
+    /*
     public void visitMonkeys2(){
         try {
             seeAnimal();
@@ -35,6 +38,7 @@ public class ExcInh {
             System.out.println(e);
         }
     }
+    */
     
     
     public void seeAnimal(){}

@@ -11,7 +11,7 @@ public class BirdWatcherFromAfar extends Bird {
     public void watchBird() {
         floatInWater(); // BirdWatcherFromAfar is referencing and extends Bird
         Bird bird = new Bird(); // Bird is created in different package than pond.shore
-        bird.floatInWater(); // DOES NOT COMPILE - protected in Bird, Bird is referencing
-        System.out.println(bird.text); // DOES NOT COMPILE - protected in Bird, Bird is referencing
+        //bird.floatInWater(); // DOES NOT COMPILE - protected in Bird, Bird is referencing
+        //System.out.println(bird.text); // DOES NOT COMPILE - protected in Bird, Bird is referencing
     } 
 }

@@ -13,9 +13,9 @@ public class InterfaceEx2 {
     public interface Herbivore {
         public static final int VALUE_YES = 1; //
         int VALUE_NO = 0; // public static final automatically inserted by complier
-        private int MAXIMUM_DEPTH = 100; // DOES NOT COMPILE - type must be public
-        protected boolean UNDERWATER = false; // DOES NOT COMPILE - type must be public
-        public abstract String NAME = "Name"; // DOES NOT COMPILE - abstract conflicts with final
+        //private int MAXIMUM_DEPTH = 100; // DOES NOT COMPILE - type must be public
+        //protected boolean UNDERWATER = false; // DOES NOT COMPILE - type must be public
+        //public abstract String NAME = "Name"; // DOES NOT COMPILE - abstract conflicts with final
         
         public void eatPlants();
     }

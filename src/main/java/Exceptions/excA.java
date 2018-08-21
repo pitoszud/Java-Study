@@ -45,7 +45,7 @@ public class excA {
                 throw new Exception("Exc 2");  // throw - go to catch
             }
             // DOES NOT COMPILE, but NO ERROR is thrown by the complier - unreachable statement
-            res += "afterFinally";
+            //res += "afterFinally";
         } catch (Exception e) {
             System.out.println(e.getMessage());
             res += "done"; // print 4

@@ -59,7 +59,7 @@ public class Module {
 
     @Override
     public String toString() {
-        return "Module{" +
+        return "ModuleJsonA{" +
                 "moduleId='" + moduleId + '\'' +
                 ", moduleTitle='" + moduleTitle + '\'' +
                 ", level=" + level +

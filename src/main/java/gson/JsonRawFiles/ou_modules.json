@@ -1,0 +1,1454 @@
+[
+  {
+    "ModuleDesc": "Arts and languages Access module",
+    "Level": 0,
+    "Code": "Y031",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "People, work and society Access module",
+    "Level": 0,
+    "Code": "Y032",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Science, technology and maths Access module",
+    "Level": 0,
+    "Code": "Y033",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "An introduction to business and management",
+    "Level": 1,
+    "Code": "B100",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "An introduction to health and social care",
+    "Level": 1,
+    "Code": "K101",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "An introduction to law",
+    "Level": 1,
+    "Code": "W101",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "An introduction to retail management and marketing",
+    "Level": 1,
+    "Code": "B122",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Andante: beginners' Italian",
+    "Level": 1,
+    "Code": "L195",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Beginners' Chinese",
+    "Level": 1,
+    "Code": "L197",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Bon depart: beginners' French",
+    "Level": 1,
+    "Code": "L192",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Business and finance fundamentals in practice",
+    "Level": 1,
+    "Code": "BXM191",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Communication skills for business and management",
+    "Level": 1,
+    "Code": "LB170",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Design thinking: creativity for the 21st century",
+    "Level": 1,
+    "Code": "U101",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Discovering mathematics",
+    "Level": 1,
+    "Code": "MU123",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Engineering: frameworks, analysis, production",
+    "Level": 1,
+    "Code": "T193",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Engineering: mathematics, modelling, applications",
+    "Level": 1,
+    "Code": "T194",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Engineering: origins, methods, context",
+    "Level": 1,
+    "Code": "T192",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "English for academic purposes online",
+    "Level": 1,
+    "Code": "L185",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Enhancing your healthcare practice",
+    "Level": 1,
+    "Code": "K117",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Environment: journeys through a changing world",
+    "Level": 1,
+    "Code": "U116",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Essential mathematics 1",
+    "Level": 1,
+    "Code": "MST124",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Essential mathematics 2",
+    "Level": 1,
+    "Code": "MST125",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Exploring languages and cultures",
+    "Level": 1,
+    "Code": "L161",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Exploring perspectives on young children's lives and learning",
+    "Level": 1,
+    "Code": "E109",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Foundations for effective practice in youth justice",
+    "Level": 1,
+    "Code": "K115",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Foundations for social work practice",
+    "Level": 1,
+    "Code": "KYJ113",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Foundations for social work practice",
+    "Level": 1,
+    "Code": "KZW113",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "French Studies 1: Language and culture of the French-speaking world",
+    "Level": 1,
+    "Code": "L112",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Fundamentals of accounting",
+    "Level": 1,
+    "Code": "B124",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Galaxies, stars and planets",
+    "Level": 1,
+    "Code": "S177",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "German Studies 1: Language and culture of the German-speaking world",
+    "Level": 1,
+    "Code": "L113",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Introducing statistics",
+    "Level": 1,
+    "Code": "M140",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Introducing the social sciences",
+    "Level": 1,
+    "Code": "DD102",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Introduction to bookkeeping and accounting",
+    "Level": 1,
+    "Code": "B190",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "Introduction to childhood studies and child psychology",
+    "Level": 1,
+    "Code": "E102",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Introduction to computing and information technology 1",
+    "Level": 1,
+    "Code": "TM111",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Introduction to computing and information technology 2",
+    "Level": 1,
+    "Code": "TM112",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Introduction to sport and fitness",
+    "Level": 1,
+    "Code": "E117",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Introduction to working with young people in practice",
+    "Level": 1,
+    "Code": "E118",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Investigating psychology 1",
+    "Level": 1,
+    "Code": "DE100",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Investigating the social world",
+    "Level": 1,
+    "Code": "DD103",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Law: concepts and perspectives",
+    "Level": 1,
+    "Code": "W102",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Learning and teaching in the primary years",
+    "Level": 1,
+    "Code": "E103",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Living without oil: chemistry for a sustainable future",
+    "Level": 1,
+    "Code": "S176",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "Making your learning count",
+    "Level": 1,
+    "Code": "YXM130",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Management practice",
+    "Level": 1,
+    "Code": "B123",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Maths for science",
+    "Level": 1,
+    "Code": "S151",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "Molecules, medicines and drugs: a chemical story",
+    "Level": 1,
+    "Code": "SK185",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "Perspectives in health and social care",
+    "Level": 1,
+    "Code": "K118",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Physics and space",
+    "Level": 1,
+    "Code": "SM123",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Portales: beginners' Spanish",
+    "Level": 1,
+    "Code": "L194",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Questions in science",
+    "Level": 1,
+    "Code": "S111",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Rundblick: beginners' German",
+    "Level": 1,
+    "Code": "L193",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Science and health: an evidence-based approach",
+    "Level": 1,
+    "Code": "SDK100",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Science: concepts and practice",
+    "Level": 1,
+    "Code": "S112",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Spanish Studies 1: Language and culture of the Spanish-speaking world",
+    "Level": 1,
+    "Code": "L116",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Technologies in practice",
+    "Level": 1,
+    "Code": "TM129",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "The arts past and present",
+    "Level": 1,
+    "Code": "AA100",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "The frozen planet",
+    "Level": 1,
+    "Code": "S175",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "Understanding the autism spectrum",
+    "Level": 1,
+    "Code": "SK124",
+    "Credits": 15
+  },
+  {
+    "ModuleDesc": "Vivace: intermediate Italian",
+    "Level": 1,
+    "Code": "L150",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Voices, texts and material culture",
+    "Level": 1,
+    "Code": "A105",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Volcanoes, earthquakes and tsunamis",
+    "Level": 1,
+    "Code": "S186",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "Working and learning in sport and fitness",
+    "Level": 1,
+    "Code": "E113",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Working with young people: an introduction",
+    "Level": 1,
+    "Code": "E108",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "You and your money: personal finance in context",
+    "Level": 1,
+    "Code": "DB123",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Young children's play and creativity",
+    "Level": 1,
+    "Code": "E110",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Adult health, social care and wellbeing",
+    "Level": 2,
+    "Code": "K217",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Ageing societies and global health",
+    "Level": 2,
+    "Code": "K242",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Algorithms, data structures and computability",
+    "Level": 2,
+    "Code": "M269",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Analysing data",
+    "Level": 2,
+    "Code": "M248",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Astronomy",
+    "Level": 2,
+    "Code": "S282",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Business organisations and their environments",
+    "Level": 2,
+    "Code": "B201",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Cell biology",
+    "Level": 2,
+    "Code": "S294",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Chemistry: essential concepts",
+    "Level": 2,
+    "Code": "S215",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Childhood",
+    "Level": 2,
+    "Code": "E212",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Cisco networking (CCNA)",
+    "Level": 2,
+    "Code": "T216",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Classical Latin: the language of ancient Rome",
+    "Level": 2,
+    "Code": "A276",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Communication and information technologies",
+    "Level": 2,
+    "Code": "T215",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Contract law and tort law",
+    "Level": 2,
+    "Code": "W202",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Counselling: exploring fear and sadness",
+    "Level": 2,
+    "Code": "D240",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Creative writing",
+    "Level": 2,
+    "Code": "A215",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Death and dying",
+    "Level": 2,
+    "Code": "K260",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Dementia care",
+    "Level": 2,
+    "Code": "K235",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Design essentials",
+    "Level": 2,
+    "Code": "T217",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Design for engineers",
+    "Level": 2,
+    "Code": "T218",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Developing subject knowledge for the primary years",
+    "Level": 2,
+    "Code": "E209",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Early modern Europe: society and culture c.1500-1780",
+    "Level": 2,
+    "Code": "A223",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Earth science",
+    "Level": 2,
+    "Code": "S209",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Electronics: sensing, logic and actuation",
+    "Level": 2,
+    "Code": "T212",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Energy and sustainability",
+    "Level": 2,
+    "Code": "T213",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Engineering: mechanics, materials, design",
+    "Level": 2,
+    "Code": "T207",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Environment: sharing a dynamic planet",
+    "Level": 2,
+    "Code": "DST206",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Environmental management 1",
+    "Level": 2,
+    "Code": "T219",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Environmental science",
+    "Level": 2,
+    "Code": "S206",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Envol: upper intermediate French",
+    "Level": 2,
+    "Code": "L211",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Equality, participation and inclusion: learning from each other",
+    "Level": 2,
+    "Code": "E214",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring art and visual culture",
+    "Level": 2,
+    "Code": "A226",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring innovation and entrepreneurship",
+    "Level": 2,
+    "Code": "B205",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring philosophy",
+    "Level": 2,
+    "Code": "A222",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring Religion: places, practices, texts and experiences",
+    "Level": 2,
+    "Code": "A227",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring the classical world",
+    "Level": 2,
+    "Code": "A219",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Extending your contribution to healthcare practice",
+    "Level": 2,
+    "Code": "K236",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Financial accounting",
+    "Level": 2,
+    "Code": "B291",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Health and illness",
+    "Level": 2,
+    "Code": "K213",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Human biology",
+    "Level": 2,
+    "Code": "SK299",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Inside music",
+    "Level": 2,
+    "Code": "A224",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "International development: making sense of a changing world",
+    "Level": 2,
+    "Code": "TD223",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "IT project and service management",
+    "Level": 2,
+    "Code": "M258",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Leading work with young people in practice",
+    "Level": 2,
+    "Code": "E218",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Living in a globalised world",
+    "Level": 2,
+    "Code": "DD205",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Living psychology: from the everyday to the extraordinary",
+    "Level": 2,
+    "Code": "DD210",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Making a difference: working with children and young people",
+    "Level": 2,
+    "Code": "KE206",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Making it happen! Leadership, influence and change",
+    "Level": 2,
+    "Code": "B204",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Making it happen! Leadership, influence and change in retailing",
+    "Level": 2,
+    "Code": "BXA204",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Management accounting",
+    "Level": 2,
+    "Code": "B292",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Mathematical methods",
+    "Level": 2,
+    "Code": "MST224",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Mathematical methods, models and modelling",
+    "Level": 2,
+    "Code": "MST210",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Mental health and community",
+    "Level": 2,
+    "Code": "K240",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Motive: upper intermediate German",
+    "Level": 2,
+    "Code": "L203",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Object-oriented Java programming",
+    "Level": 2,
+    "Code": "M250",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Personal investment in an uncertain world",
+    "Level": 2,
+    "Code": "DB234",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Physics: from classical to quantum",
+    "Level": 2,
+    "Code": "S217",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Planetary science and the search for life",
+    "Level": 2,
+    "Code": "S283",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Practical modern statistics",
+    "Level": 2,
+    "Code": "M249",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Practical science: biology and health",
+    "Level": 2,
+    "Code": "SXHL288",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Practical science: physics and astronomy",
+    "Level": 2,
+    "Code": "SXPA288",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Psychology of childhood and youth",
+    "Level": 2,
+    "Code": "E219",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Public law and criminal law",
+    "Level": 2,
+    "Code": "W203",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Pure mathematics",
+    "Level": 2,
+    "Code": "M208",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Reading and studying literature",
+    "Level": 2,
+    "Code": "A230",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Reading classical Greek: language and literature",
+    "Level": 2,
+    "Code": "A275",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Running the economy",
+    "Level": 2,
+    "Code": "DD209",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Science and society",
+    "Level": 2,
+    "Code": "S201",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Shaping business opportunities",
+    "Level": 2,
+    "Code": "B207",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Software development with Java",
+    "Level": 2,
+    "Code": "M256",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Sport and conditioning science into practice",
+    "Level": 2,
+    "Code": "E217",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Sport and exercise psychology: a case study approach",
+    "Level": 2,
+    "Code": "E233",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Subject knowledge and professional practice in primary schools",
+    "Level": 2,
+    "Code": "E207",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "The biology of survival",
+    "Level": 2,
+    "Code": "S295",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "The British Isles and the modern world, 1789-1914",
+    "Level": 2,
+    "Code": "A225",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "The law and social work in England and Wales",
+    "Level": 2,
+    "Code": "K270",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "The law and social work in Scotland",
+    "Level": 2,
+    "Code": "K207",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "The science of the mind: investigating mental health",
+    "Level": 2,
+    "Code": "SDK228",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "The uses of social science",
+    "Level": 2,
+    "Code": "DD206",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Understanding politics: ideas and institutions in the modern world",
+    "Level": 2,
+    "Code": "DD211",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Viento en popa: upper intermediate Spanish",
+    "Level": 2,
+    "Code": "L204",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Web technologies",
+    "Level": 2,
+    "Code": "TT284",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Welfare, crime and society",
+    "Level": 2,
+    "Code": "DD208",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Worlds of English",
+    "Level": 2,
+    "Code": "U214",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Youth justice: theory, research and practice",
+    "Level": 2,
+    "Code": "K209",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "A buen puerto: advanced Spanish",
+    "Level": 3,
+    "Code": "L314",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Adulthood, ageing and the life course",
+    "Level": 3,
+    "Code": "K319",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Advanced creative writing",
+    "Level": 3,
+    "Code": "A363",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Advanced management accounting",
+    "Level": 3,
+    "Code": "B392",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Advancing social psychology",
+    "Level": 3,
+    "Code": "DD317",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Applications of probability",
+    "Level": 3,
+    "Code": "M343",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Approaches to mental health",
+    "Level": 3,
+    "Code": "K314",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Art and its global histories",
+    "Level": 3,
+    "Code": "A344",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Astrophysics",
+    "Level": 3,
+    "Code": "S382",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Biological science: from genes to species",
+    "Level": 3,
+    "Code": "S317",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Central questions in the study of music",
+    "Level": 3,
+    "Code": "A342",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Chemistry: further concepts and applications",
+    "Level": 3,
+    "Code": "S315",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Children's literature",
+    "Level": 3,
+    "Code": "EA300",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Communications technology",
+    "Level": 3,
+    "Code": "TM355",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Complex analysis",
+    "Level": 3,
+    "Code": "M337",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Counselling and forensic psychology: investigating crime and therapy",
+    "Level": 3,
+    "Code": "DD310",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Creating futures : sustainable enterprise and innovation",
+    "Level": 3,
+    "Code": "B327",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Crime and justice",
+    "Level": 3,
+    "Code": "DD301",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Data management and analysis",
+    "Level": 3,
+    "Code": "TM351",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Deterministic and stochastic dynamics",
+    "Level": 3,
+    "Code": "MS327",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Developing algebraic thinking",
+    "Level": 3,
+    "Code": "ME625",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Developing geometric thinking",
+    "Level": 3,
+    "Code": "ME627",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Developing statistical thinking",
+    "Level": 3,
+    "Code": "ME626",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Doing economics: people, markets and policy",
+    "Level": 3,
+    "Code": "DD309",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Earth in crisis: environmental policy in an international context",
+    "Level": 3,
+    "Code": "DU311",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Earth processes",
+    "Level": 3,
+    "Code": "S309",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Ecosystems",
+    "Level": 3,
+    "Code": "S396",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Electromagnetism",
+    "Level": 3,
+    "Code": "SMT359",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Empire: 1492-1975",
+    "Level": 3,
+    "Code": "A326",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Engineering small worlds: micro and nano technologies",
+    "Level": 3,
+    "Code": "T356",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "English Literature from Shakespeare to Austen",
+    "Level": 3,
+    "Code": "A334",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Environmental management 2",
+    "Level": 3,
+    "Code": "T319",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Europe 1914-1989: war, peace, modernity",
+    "Level": 3,
+    "Code": "A327",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Evaluating contemporary science",
+    "Level": 3,
+    "Code": "S350",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Exploring contemporary issues in sport and exercise",
+    "Level": 3,
+    "Code": "E314",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring English grammar",
+    "Level": 3,
+    "Code": "E304",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring legal boundaries",
+    "Level": 3,
+    "Code": "W350",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Exploring practice",
+    "Level": 3,
+    "Code": "K316",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Exploring psychological aspects of athletic development",
+    "Level": 3,
+    "Code": "E313",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Further pure mathematics",
+    "Level": 3,
+    "Code": "M303",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Graphs, networks and design",
+    "Level": 3,
+    "Code": "MT365",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Infectious disease and public health",
+    "Level": 3,
+    "Code": "SK320",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Innovation: designing for change",
+    "Level": 3,
+    "Code": "T317",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Interaction design and the user experience",
+    "Level": 3,
+    "Code": "TM356",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "International relations: continuity and change in global politics",
+    "Level": 3,
+    "Code": "DD313",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Issues in research with children and young people",
+    "Level": 3,
+    "Code": "EK313",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "IT systems: planning for success",
+    "Level": 3,
+    "Code": "TM353",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Key questions in philosophy",
+    "Level": 3,
+    "Code": "A333",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Language and creativity",
+    "Level": 3,
+    "Code": "E302",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Law, society and culture",
+    "Level": 3,
+    "Code": "W340",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Leadership and management in health and social care",
+    "Level": 3,
+    "Code": "K313",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Linear statistical modelling",
+    "Level": 3,
+    "Code": "M346",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Literature in transition: from 1800 to the present",
+    "Level": 3,
+    "Code": "A335",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Living political ideas",
+    "Level": 3,
+    "Code": "DD306",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Making sense of strategy",
+    "Level": 3,
+    "Code": "B301",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Making social worlds",
+    "Level": 3,
+    "Code": "DD308",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Managing 1: organisations and people",
+    "Level": 3,
+    "Code": "B628",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Managing 1: organisations and people - online version",
+    "Level": 3,
+    "Code": "BZX628",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Managing 2: marketing and finance",
+    "Level": 3,
+    "Code": "B629",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Managing 2: marketing and finance - online version",
+    "Level": 3,
+    "Code": "BZX629",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Managing 3: the integration challenge",
+    "Level": 3,
+    "Code": "B690",
+    "Credits": 10
+  },
+  {
+    "ModuleDesc": "Managing across organisational and cultural boundaries",
+    "Level": 3,
+    "Code": "B325",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Marketing and society",
+    "Level": 3,
+    "Code": "B324",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Mathematical methods and fluid mechanics",
+    "Level": 3,
+    "Code": "MST326",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Mathematical statistics",
+    "Level": 3,
+    "Code": "M347",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Mathematical thinking in schools",
+    "Level": 3,
+    "Code": "ME620",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Mises au point: advanced French",
+    "Level": 3,
+    "Code": "L310",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Myth in the Greek and Roman worlds",
+    "Level": 3,
+    "Code": "A330",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Optimization",
+    "Level": 3,
+    "Code": "M373",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Personal lives and social policy",
+    "Level": 3,
+    "Code": "DD305",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Promoting public health: skills, perspectives and practice",
+    "Level": 3,
+    "Code": "K311",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Renaissance art reconsidered",
+    "Level": 3,
+    "Code": "AA315",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Renewable energy",
+    "Level": 3,
+    "Code": "T313",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Researching biology and health science",
+    "Level": 3,
+    "Code": "SXL390",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Science project course: environmental science practical project",
+    "Level": 3,
+    "Code": "SXE390",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Science project course: frontiers in chemistry",
+    "Level": 3,
+    "Code": "SXM390",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Science project course: geosciences",
+    "Level": 3,
+    "Code": "SXG390",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Science project course: radiation and matter",
+    "Level": 3,
+    "Code": "SXP390",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Science project course: science in society project",
+    "Level": 3,
+    "Code": "SXN390",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Signals and perception: the science of the senses",
+    "Level": 3,
+    "Code": "SD329",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Software engineering",
+    "Level": 3,
+    "Code": "TM354",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Structural integrity: designing against failure",
+    "Level": 3,
+    "Code": "T357",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "The making of Welsh history",
+    "Level": 3,
+    "Code": "A329",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "The quantum world",
+    "Level": 3,
+    "Code": "SM358",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "The relativistic Universe",
+    "Level": 3,
+    "Code": "S383",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "The Roman Empire",
+    "Level": 3,
+    "Code": "A340",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Variationen: advanced German",
+    "Level": 3,
+    "Code": "L313",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Web, mobile and cloud technologies",
+    "Level": 3,
+    "Code": "TM352",
+    "Credits": 30
+  },
+  {
+    "ModuleDesc": "Why is religion controversial?",
+    "Level": 3,
+    "Code": "A332",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Working together for children",
+    "Level": 3,
+    "Code": "KE312",
+    "Credits": 60
+  },
+  {
+    "ModuleDesc": "Youth: policy in practice",
+    "Level": 3,
+    "Code": "E318",
+    "Credits": 60
+  }
+]

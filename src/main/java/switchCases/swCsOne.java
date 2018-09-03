@@ -23,12 +23,12 @@ public class swCsOne {
        switch(grade){
            case a:
            case 'B': System.out.println("switch parameter: " + grade);
-           case d:  System.out.println("d: " + d);
+           // case d:  System.out.println("d: " + d);
            case 'F': System.out.println("new case of the same type as grade");
-           case x: System.out.println("cannot find symbol");
-           case g: System.out.println("constant expression required");
-           case grade: System.out.println("constant expression required");
-           case "O": System.out.println("incompatible types");
+           // case x: System.out.println("cannot find symbol");
+           // case g: System.out.println("constant expression required");
+           // case grade: System.out.println("constant expression required");
+           // case "O": System.out.println("incompatible types");
            case 'D': System.out.println("duplicate case lebel: d = 'D'");
            case 'C': System.out.println("new case of the same type as grade"); break;
            case 'P': System.out.println("no more cases after break");

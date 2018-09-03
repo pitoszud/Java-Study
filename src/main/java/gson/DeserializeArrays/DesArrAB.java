@@ -18,8 +18,9 @@ public class DesArrAB {
         //ModuleJsonA[] moduleArray = new Gson().fromJson(getStringFromJson(), ModuleJsonA[].class);
 
         String pathNameA = "E:\\JavaStudy\\src\\main\\java\\gson\\JsonRawFiles\\ou_modules.json";
+        String pathNameA2 = "G:\\Projects\\JavaStudy\\src\\main\\java\\gson\\JsonRawFiles\\ou_modules.json";
         Type moduleListType = new TypeToken<ArrayList<ModuleJsonA>>(){}.getType();
-        String jsonStrA = getJsonString(pathNameA);
+        String jsonStrA = getJsonString(pathNameA2);
         List<ModuleJsonA> moduleList = new Gson().fromJson(jsonStrA, moduleListType);
 
         System.out.println(moduleList.get(0));
@@ -29,7 +30,8 @@ public class DesArrAB {
 
 
         String pathNameB = "E:\\JavaStudy\\src\\main\\java\\gson\\JsonRawFiles\\ou_module_collection.json";
-        String jsonStrB = getJsonString(pathNameB);
+        String pathNameB2 = "G:\\Projects\\JavaStudy\\src\\main\\java\\gson\\JsonRawFiles\\ou_module_collection.json";
+        String jsonStrB = getJsonString(pathNameB2);
         ModuleCollection modules = new Gson().fromJson(jsonStrB, ModuleCollection.class);
 
         System.out.println(modules.Modules.get(0));

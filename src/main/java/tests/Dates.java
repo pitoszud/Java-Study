@@ -27,7 +27,7 @@ public class Dates {
         LocalTime smallEgg = LocalTime.of(0, 2, 30);  // 0:02:30
         
         
-        LocalDate ld1 = LocalDate.of(1982, 5, 9); // == 1982, Month.MAY, 9
+        LocalDate ld1 = LocalDate.of(1992, 6, 4); // == 1992, Month.JUNE, 4
         LocalDate ld2 = LocalDate.now();
         
         LocalDateTime ldt1 = LocalDateTime.of(ld1, mediumEgg);
@@ -47,25 +47,25 @@ public class Dates {
     
     private static void formatDateTime(LocalDate ld1, LocalDateTime ldt1){
         DateTimeFormatter dtf = DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT);
-        System.out.println(dtf.format(ld1)); // 09/05/82
+        System.out.println(dtf.format(ld1));
         // System.out.println(dtf.format(lt1)); // java.time.temporal.UnsupportedTemporalTypeException
-        System.out.println(dtf.format(ldt1)); // 09/05/82
+        System.out.println(dtf.format(ldt1));
         
-        
-        System.out.println(ld1.format(dtf));  // 09/05/82
+
+        System.out.println(ld1.format(dtf));
         // System.out.println(lt1.format(dtf)); // java.time.temporal.UnsupportedTemporalTypeException
-        System.out.println(ldt1.format(dtf));  // 09/05/82
+        System.out.println(ldt1.format(dtf));
     }
     
     private static void formatDateTimeCustom(LocalDateTime ldt1){
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd MMMM, yyyy; hh:mm:ss");
-        System.out.println(dtf.format(ldt1)); // 09 May, 1982; 12:03:30
+        System.out.println(dtf.format(ldt1));
     }
     
     private static void formatDateTimeParse(){
-        LocalDate ld3 = LocalDate.parse("09 05 1982", DateTimeFormatter.ofPattern("dd MM yyyy"));
-        System.out.println("before: 09 05 1982");  // before: 09 05 1982
-        System.out.println("after: " + ld3); // after: 1982-05-09
+        LocalDate ld3 = LocalDate.parse("04 06 1992", DateTimeFormatter.ofPattern("dd MM yyyy"));
+        System.out.println("before: 04 06 1992");
+        System.out.println("after: " + ld3);
         
         LocalDate ld4 = LocalDate.parse(LocalDate.now().toString(), DateTimeFormatter.ISO_DATE);
         System.out.println(ld4);  // 2017-02-13

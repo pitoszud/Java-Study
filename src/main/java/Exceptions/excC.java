@@ -24,12 +24,16 @@ public class excC {
             }
             
             rideVeryFast(); // unreported exception FlatTyres - must be caught or declated to be thrown
-            
+
+            /*
+
             try {
                 rideSlow();
             } catch (ChainSnapped csn) { // ChainSnapped never thrown in body of try statement - add throws ChainSnapped to rideSlow()
                 System.err.println(csn);
             }
+
+            */
         }
         
         public static void main2(String[] args) throws FlatTyre, FlatTyres { 

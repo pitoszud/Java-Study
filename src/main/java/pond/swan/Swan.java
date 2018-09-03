@@ -21,7 +21,7 @@ public class Swan extends Bird { // but subclass of bird
     
     public void helpOtherBirdSwim(){
         Bird b = new Bird();
-        b.floatInWater(); // DOES NOT COMPILE - protected in Bird, Bird is referencing
-        System.out.println(b.text);  // DOES NOT COMPILE - protected in Bird, Bird is referencing
+        //b.floatInWater(); // DOES NOT COMPILE - protected in Bird, Bird is referencing
+        //System.out.println(b.text);  // DOES NOT COMPILE - protected in Bird, Bird is referencing
     }
 }

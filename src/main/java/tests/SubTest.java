@@ -10,7 +10,7 @@ package tests;
  * @author UPatryk
  */
 public class SubTest extends Tests {
-    private static final String name = "PITOS";
+    private static final String name = "PIT";
 
     public SubTest(int num, String str) {
         super(num, str);

@@ -11,7 +11,7 @@ public class BirdWatcher {
         bird.floatInWater(); // calling protected member
         System.out.println(bird.text); // calling protected member
         
-        this.floatInWater(); // DOES NOT COMPILE - BirdWatcher does not extends Bird
+        // this.floatInWater(); // DOES NOT COMPILE - BirdWatcher does not extends Bird
         
         
     }

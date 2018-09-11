@@ -57,17 +57,18 @@ public class AnonExt {
     
     
     // separating calcPrice2 method
-    public double calcPrice3(Charge charge){
-        return charge.applySurcharge();
+    public double calcStandardCost(double discount, Charge charge){
+        return charge.applySurcharge() * discount;
     }
     
     public double calc(double price){
-        // return calcPrice3(() -> price * 1.07);
-        return calcPrice3(new Charge(){
-           @Override
-           public double applySurcharge(){
-               return price * 1.07;
-           } 
+        //return calcStandardCost(0.5, () -> price * 1.07);
+
+        return calcStandardCost(0.5, new Charge(){
+            @Override
+            public double applySurcharge(){
+                return price * 1.07;
+            }
         });
     }
     

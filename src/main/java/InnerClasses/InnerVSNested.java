@@ -22,10 +22,12 @@ public class InnerVSNested {
         // no need to initialise enclosing class with static nested class
         Nested nested = new Nested();
         System.out.println(nested.valA);
+
+        //Inner inner1 = new Inner(); - DOES NOT COMPILE (Must be static to compile)
         
         InnerVSNested enclosing = new InnerVSNested();
-        Inner inner = enclosing.new Inner();
-        System.out.println(inner.valB);
+        Inner inner2 = enclosing.new Inner();
+        System.out.println(inner2.valB);
         
     }
 }

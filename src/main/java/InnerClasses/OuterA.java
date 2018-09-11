@@ -13,11 +13,13 @@ public class OuterA {
     private int length = 5;
     public void calculate(){
         int width = 20; // effectively final
+
         class InnerA{
             public void multiply(){
                 System.out.println(length * width);
             }
         }
+
         InnerA inner = new InnerA();
         inner.multiply();
     }

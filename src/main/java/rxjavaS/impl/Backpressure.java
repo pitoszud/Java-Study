@@ -1,10 +1,11 @@
 package rxjavaS.impl;
 
+import io.reactivex.BackpressureStrategy;
 import io.reactivex.Flowable;
 import io.reactivex.Observable;
 import io.reactivex.schedulers.Schedulers;
 
-public class Backlogged {
+public class Backpressure {
 
     public static void main(String[] args) {
         //backpressure();
@@ -63,6 +64,22 @@ public class Backlogged {
     // Received MyItem 384
     // Constructing MyItem 417
     // ...
+
+
+    private static void FlowableWithBackpressureStrategy(){
+        Flowable<Integer> source = Flowable.create(emitter -> {
+            for (int i=0; i<=1000; i++) {
+                if (emitter.isCancelled())
+                    return;
+                emitter.onNext(i);
+            }
+            emitter.onComplete();
+        }, BackpressureStrategy.BUFFER);
+        source.observeOn(Schedulers.io())
+                .subscribe(System.out::println);
+
+        sleep(1000);
+    }
 
 
 

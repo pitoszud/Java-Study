@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6708cb48-2ab5-478f-a06b-f256dda08c58" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InnerClasses/AnonExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InnerClasses/AnonExt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InnerClasses/InnerVSNested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InnerClasses/InnerVSNested.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InnerClasses/OuterA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InnerClasses/OuterA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Backlogged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Backpressure.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -56,27 +54,28 @@
     <session id="1598909962">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.111" value="1" />
           <entry key="project.open.time.149" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.152" value="1" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="7" />
+          <entry key="dummy" value="19" />
           <entry key="gradle" value="7" />
           <entry key="html" value="46" />
-          <entry key="java" value="6076" />
+          <entry key="java" value="6286" />
           <entry key="kt" value="2543" />
         </counts>
       </usages-collector>
@@ -84,7 +83,7 @@
         <counts>
           <entry key="Groovy" value="2" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="77" />
+          <entry key="JAVA" value="79" />
           <entry key="Kotlin" value="6" />
         </counts>
       </usages-collector>
@@ -93,21 +92,22 @@
         <counts>
           <entry key="Groovy" value="7" />
           <entry key="HTML" value="46" />
-          <entry key="JAVA" value="6076" />
+          <entry key="JAVA" value="6286" />
           <entry key="Kotlin" value="2543" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="2" />
           <entry key="html" value="1" />
-          <entry key="java" value="77" />
+          <entry key="java" value="79" />
           <entry key="kt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
     <session id="-243358578">
       <usages-collector id="statistics.lifecycle.project">
@@ -592,7 +592,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Multicasting.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/GroupMergeConnect.java" />
         <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/DisposeEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/InterfaceEx2.java" />
@@ -643,6 +642,7 @@
         <option value="$PROJECT_DIR$/src/main/java/InnerClasses/InnerVSNested.java" />
         <option value="$PROJECT_DIR$/src/main/java/InnerClasses/AnonExt.java" />
         <option value="$PROJECT_DIR$/src/main/java/InnerClasses/StandardCostCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rxjavaS/impl/Backpressure.java" />
       </list>
     </option>
   </component>
@@ -666,6 +666,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="rxjavaS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="rxjavaS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="impl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -739,38 +786,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JavaStudy2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaStudy2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Course" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -779,7 +796,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536660487749" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537347224593" />
     <property name="last_opened_file_path" value="G:/Kotlin/KotlinStudy3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -806,15 +823,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Backlogged">
+  <component name="RunManager" selected="Application.Backpressure">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Backlogged" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rxjavaS.impl.Backlogged" />
+    <configuration name="Backpressure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rxjavaS.impl.Backpressure" />
       <module name="JavaStudy2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -906,11 +923,11 @@
       <item itemvalue="Kotlin.HK.TwoDArraysKt" />
       <item itemvalue="Application.RapidClicks" />
       <item itemvalue="Application.Switching" />
-      <item itemvalue="Application.Backlogged" />
+      <item itemvalue="Application.Backpressure" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Backlogged" />
+        <item itemvalue="Application.Backpressure" />
         <item itemvalue="Application.Switching" />
         <item itemvalue="Application.RapidClicks" />
         <item itemvalue="Kotlin.HK.TwoDArraysKt" />
@@ -987,11 +1004,12 @@
       <workItem from="1536228202097" duration="1058000" />
       <workItem from="1536308978929" duration="7470000" />
       <workItem from="1536653129967" duration="5226000" />
+      <workItem from="1537343616107" duration="2283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171517000" />
+    <option name="totallyTimeSpent" value="173800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
@@ -1338,38 +1356,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Backlogged.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InnerClasses/StandardCostCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InnerClasses/StandardCostCalculator.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/InnerClasses/AnonExt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-          <folding>
-            <element signature="e#805#934#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
-            <element signature="e#1338#1339#0" expanded="true" />
-            <element signature="e#1486#1487#0" expanded="true" />
-            <element signature="e#1532#1533#0" expanded="true" />
-            <element signature="e#1763#1764#0" expanded="true" />
-            <element signature="e#1814#1815#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1384,6 +1375,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rxjavaS/impl/Backpressure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="65" column="10" lean-forward="true" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
         </state>
       </provider>
     </entry>

@@ -18,6 +18,14 @@ public class Main {
         ABController abc = new ABController();
         abc.checkFly(new ClassA());
         abc.checkFly(new ClassB());
+
+        // -----------------------
+
+        ClassA ca = new ClassA();
+        ca.assignCores(32);
+
+        ClassB cb = new ClassB();
+        cb.hideOverride(16);
     }
 
 

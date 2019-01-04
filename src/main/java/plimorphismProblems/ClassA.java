@@ -10,10 +10,19 @@ package plimorphismProblems;
  * @author UPatryk
  */
 public class ClassA implements Cl{
+    // construction order problem
+    private String[] coreArr;
+
+    @Override
+    public void assignCores(int coresNum){
+        coreArr = new String[coresNum];
+    }
+
+
+    @Override
     public void fly(){
         System.out.println("ClassA is flying");
     }
-    
 
 
 

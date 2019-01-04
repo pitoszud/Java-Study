@@ -5,4 +5,6 @@ package plimorphismProblems;
  */
 interface Cl {
     void fly();
+
+    void assignCores(int coresNum);
 }
